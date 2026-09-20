@@ -1,0 +1,4379 @@
+{
+  "parameter": "pm25",
+  "unit": "\u00b5g/m\u00b3",
+  "guideline": 15,
+  "months": [
+    {
+      "month": "2026-04",
+      "days_reported": 30,
+      "days_in_month": 30
+    },
+    {
+      "month": "2026-05",
+      "days_reported": 31,
+      "days_in_month": 31
+    },
+    {
+      "month": "2026-06",
+      "days_reported": 30,
+      "days_in_month": 30
+    },
+    {
+      "month": "2026-07",
+      "days_reported": 31,
+      "days_in_month": 31
+    },
+    {
+      "month": "2026-08",
+      "days_reported": 31,
+      "days_in_month": 31
+    },
+    {
+      "month": "2026-09",
+      "days_reported": 16,
+      "days_in_month": 30
+    }
+  ],
+  "values": [
+    {
+      "country_code": "ALB",
+      "country_name": "Albania",
+      "month": "2026-04",
+      "value": 4.45,
+      "peak": 47.7,
+      "stations": 1,
+      "days_reported": 8,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "ARM",
+      "country_name": "Armenia",
+      "month": "2026-04",
+      "value": 12.8,
+      "peak": 41.0,
+      "stations": 1,
+      "days_reported": 30,
+      "days_above_guideline": 8
+    },
+    {
+      "country_code": "AUS",
+      "country_name": "Australia",
+      "month": "2026-04",
+      "value": 5.4,
+      "peak": 111.7,
+      "stations": 11,
+      "days_reported": 30,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "AUT",
+      "country_name": "Austria",
+      "month": "2026-04",
+      "value": 10.01,
+      "peak": 56.8,
+      "stations": 8,
+      "days_reported": 30,
+      "days_above_guideline": 6
+    },
+    {
+      "country_code": "BEL",
+      "country_name": "Belgium",
+      "month": "2026-04",
+      "value": 7.41,
+      "peak": 150.3,
+      "stations": 8,
+      "days_reported": 30,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "BFA",
+      "country_name": "Burkina Faso",
+      "month": "2026-04",
+      "value": 16.8,
+      "peak": 43.43,
+      "stations": 1,
+      "days_reported": 1,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "BGR",
+      "country_name": "Bulgaria",
+      "month": "2026-04",
+      "value": 10.33,
+      "peak": 88.6,
+      "stations": 6,
+      "days_reported": 30,
+      "days_above_guideline": 6
+    },
+    {
+      "country_code": "BIH",
+      "country_name": "Bosnia and Herzegovina",
+      "month": "2026-04",
+      "value": 13.45,
+      "peak": 36.3,
+      "stations": 1,
+      "days_reported": 18,
+      "days_above_guideline": 4
+    },
+    {
+      "country_code": "BRA",
+      "country_name": "Brazil",
+      "month": "2026-04",
+      "value": 9.51,
+      "peak": 89.67,
+      "stations": 3,
+      "days_reported": 30,
+      "days_above_guideline": 2
+    },
+    {
+      "country_code": "CAN",
+      "country_name": "Canada",
+      "month": "2026-04",
+      "value": 3.34,
+      "peak": 101.3,
+      "stations": 25,
+      "days_reported": 30,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "CHE",
+      "country_name": "Switzerland",
+      "month": "2026-04",
+      "value": 10.17,
+      "peak": 151.2,
+      "stations": 3,
+      "days_reported": 30,
+      "days_above_guideline": 3
+    },
+    {
+      "country_code": "CHL",
+      "country_name": "Chile",
+      "month": "2026-04",
+      "value": 23.92,
+      "peak": 50.0,
+      "stations": 8,
+      "days_reported": 30,
+      "days_above_guideline": 30
+    },
+    {
+      "country_code": "CHN",
+      "country_name": "China",
+      "month": "2026-04",
+      "value": 15.25,
+      "peak": 70.2,
+      "stations": 3,
+      "days_reported": 30,
+      "days_above_guideline": 11
+    },
+    {
+      "country_code": "CIV",
+      "country_name": "Ivory Coast",
+      "month": "2026-04",
+      "value": 10.89,
+      "peak": 82.99,
+      "stations": 2,
+      "days_reported": 30,
+      "days_above_guideline": 8
+    },
+    {
+      "country_code": "CMR",
+      "country_name": "Cameroon",
+      "month": "2026-04",
+      "value": 18.02,
+      "peak": 152.3,
+      "stations": 1,
+      "days_reported": 25,
+      "days_above_guideline": 18
+    },
+    {
+      "country_code": "COD",
+      "country_name": "Democratic Republic of the Congo",
+      "month": "2026-04",
+      "value": 41.67,
+      "peak": 63.1,
+      "stations": 1,
+      "days_reported": 2,
+      "days_above_guideline": 2
+    },
+    {
+      "country_code": "CZE",
+      "country_name": "Czechia",
+      "month": "2026-04",
+      "value": 12.04,
+      "peak": 86.3,
+      "stations": 5,
+      "days_reported": 30,
+      "days_above_guideline": 9
+    },
+    {
+      "country_code": "DEU",
+      "country_name": "Germany",
+      "month": "2026-04",
+      "value": 8.26,
+      "peak": 409.7,
+      "stations": 30,
+      "days_reported": 30,
+      "days_above_guideline": 3
+    },
+    {
+      "country_code": "ESP",
+      "country_name": "Spain",
+      "month": "2026-04",
+      "value": 7.69,
+      "peak": 36.7,
+      "stations": 13,
+      "days_reported": 30,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "EST",
+      "country_name": "Estonia",
+      "month": "2026-04",
+      "value": 2.89,
+      "peak": 50.3,
+      "stations": 1,
+      "days_reported": 30,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "FIN",
+      "country_name": "Finland",
+      "month": "2026-04",
+      "value": 2.97,
+      "peak": 24.0,
+      "stations": 4,
+      "days_reported": 30,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "FRA",
+      "country_name": "France",
+      "month": "2026-04",
+      "value": 6.61,
+      "peak": 52.8,
+      "stations": 22,
+      "days_reported": 30,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "GBR",
+      "country_name": "United Kingdom",
+      "month": "2026-04",
+      "value": 6.8,
+      "peak": 177.0,
+      "stations": 22,
+      "days_reported": 30,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "GHA",
+      "country_name": "Ghana",
+      "month": "2026-04",
+      "value": 20.48,
+      "peak": 313.4,
+      "stations": 7,
+      "days_reported": 30,
+      "days_above_guideline": 27
+    },
+    {
+      "country_code": "GRC",
+      "country_name": "Greece",
+      "month": "2026-04",
+      "value": 7.86,
+      "peak": 61.1,
+      "stations": 4,
+      "days_reported": 30,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "HND",
+      "country_name": "Honduras",
+      "month": "2026-04",
+      "value": 15.27,
+      "peak": 113.7,
+      "stations": 7,
+      "days_reported": 30,
+      "days_above_guideline": 12
+    },
+    {
+      "country_code": "HRV",
+      "country_name": "Croatia",
+      "month": "2026-04",
+      "value": 7.45,
+      "peak": 20.4,
+      "stations": 1,
+      "days_reported": 29,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "HUN",
+      "country_name": "Hungary",
+      "month": "2026-04",
+      "value": 11.27,
+      "peak": 55.0,
+      "stations": 3,
+      "days_reported": 30,
+      "days_above_guideline": 6
+    },
+    {
+      "country_code": "IND",
+      "country_name": "India",
+      "month": "2026-04",
+      "value": 44.92,
+      "peak": 2022.09,
+      "stations": 55,
+      "days_reported": 30,
+      "days_above_guideline": 30
+    },
+    {
+      "country_code": "IRL",
+      "country_name": "Ireland",
+      "month": "2026-04",
+      "value": 7.59,
+      "peak": 47.13,
+      "stations": 4,
+      "days_reported": 30,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "ISL",
+      "country_name": "Iceland",
+      "month": "2026-04",
+      "value": 6.32,
+      "peak": 79.83,
+      "stations": 1,
+      "days_reported": 30,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "ITA",
+      "country_name": "Italy",
+      "month": "2026-04",
+      "value": 14.53,
+      "peak": 65.89,
+      "stations": 12,
+      "days_reported": 30,
+      "days_above_guideline": 16
+    },
+    {
+      "country_code": "JPN",
+      "country_name": "Japan",
+      "month": "2026-04",
+      "value": 9.45,
+      "peak": 99.0,
+      "stations": 69,
+      "days_reported": 30,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "KAZ",
+      "country_name": "Kazakhstan",
+      "month": "2026-04",
+      "value": 24.3,
+      "peak": 256.8,
+      "stations": 11,
+      "days_reported": 30,
+      "days_above_guideline": 23
+    },
+    {
+      "country_code": "KGZ",
+      "country_name": "Kyrgyzstan",
+      "month": "2026-04",
+      "value": 24.68,
+      "peak": 280.61,
+      "stations": 4,
+      "days_reported": 30,
+      "days_above_guideline": 29
+    },
+    {
+      "country_code": "KOR",
+      "country_name": "South Korea",
+      "month": "2026-04",
+      "value": 373.79,
+      "peak": 9999.0,
+      "stations": 43,
+      "days_reported": 30,
+      "days_above_guideline": 30
+    },
+    {
+      "country_code": "LAO",
+      "country_name": "Laos",
+      "month": "2026-04",
+      "value": 95.98,
+      "peak": 967.2,
+      "stations": 12,
+      "days_reported": 30,
+      "days_above_guideline": 30
+    },
+    {
+      "country_code": "LBN",
+      "country_name": "Lebanon",
+      "month": "2026-04",
+      "value": 14.78,
+      "peak": 71.4,
+      "stations": 2,
+      "days_reported": 30,
+      "days_above_guideline": 13
+    },
+    {
+      "country_code": "LBR",
+      "country_name": "Liberia",
+      "month": "2026-04",
+      "value": 17.68,
+      "peak": 223.6,
+      "stations": 1,
+      "days_reported": 22,
+      "days_above_guideline": 12
+    },
+    {
+      "country_code": "LVA",
+      "country_name": "Latvia",
+      "month": "2026-04",
+      "value": 7.3,
+      "peak": 42.0,
+      "stations": 2,
+      "days_reported": 30,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "MAR",
+      "country_name": "Morocco",
+      "month": "2026-04",
+      "value": 19.99,
+      "peak": 77.4,
+      "stations": 1,
+      "days_reported": 28,
+      "days_above_guideline": 21
+    },
+    {
+      "country_code": "MDA",
+      "country_name": "Moldova",
+      "month": "2026-04",
+      "value": 17.0,
+      "peak": 54.0,
+      "stations": 1,
+      "days_reported": 23,
+      "days_above_guideline": 10
+    },
+    {
+      "country_code": "MEX",
+      "country_name": "Mexico",
+      "month": "2026-04",
+      "value": 28.36,
+      "peak": 11958.97,
+      "stations": 5,
+      "days_reported": 30,
+      "days_above_guideline": 29
+    },
+    {
+      "country_code": "MKD",
+      "country_name": "North Macedonia",
+      "month": "2026-04",
+      "value": 18.0,
+      "peak": 66.34,
+      "stations": 1,
+      "days_reported": 30,
+      "days_above_guideline": 21
+    },
+    {
+      "country_code": "MOZ",
+      "country_name": "Mozambique",
+      "month": "2026-04",
+      "value": 23.36,
+      "peak": 91.3,
+      "stations": 1,
+      "days_reported": 4,
+      "days_above_guideline": 3
+    },
+    {
+      "country_code": "MWI",
+      "country_name": "Malawi",
+      "month": "2026-04",
+      "value": 16.69,
+      "peak": 293.8,
+      "stations": 2,
+      "days_reported": 30,
+      "days_above_guideline": 16
+    },
+    {
+      "country_code": "MYS",
+      "country_name": "Malaysia",
+      "month": "2026-04",
+      "value": 12.7,
+      "peak": 23.91,
+      "stations": 1,
+      "days_reported": 30,
+      "days_above_guideline": 3
+    },
+    {
+      "country_code": "NGA",
+      "country_name": "Nigeria",
+      "month": "2026-04",
+      "value": 26.13,
+      "peak": 327.6,
+      "stations": 3,
+      "days_reported": 30,
+      "days_above_guideline": 29
+    },
+    {
+      "country_code": "NLD",
+      "country_name": "Netherlands",
+      "month": "2026-04",
+      "value": 7.07,
+      "peak": 112.6,
+      "stations": 15,
+      "days_reported": 30,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "NOR",
+      "country_name": "Norway",
+      "month": "2026-04",
+      "value": 3.99,
+      "peak": 31.09,
+      "stations": 3,
+      "days_reported": 30,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "NPL",
+      "country_name": "Nepal",
+      "month": "2026-04",
+      "value": 81.53,
+      "peak": 312.3,
+      "stations": 2,
+      "days_reported": 30,
+      "days_above_guideline": 30
+    },
+    {
+      "country_code": "NZL",
+      "country_name": "New Zealand",
+      "month": "2026-04",
+      "value": 5.39,
+      "peak": 52.4,
+      "stations": 2,
+      "days_reported": 30,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "PAK",
+      "country_name": "Pakistan",
+      "month": "2026-04",
+      "value": 41.04,
+      "peak": 398.9,
+      "stations": 23,
+      "days_reported": 30,
+      "days_above_guideline": 30
+    },
+    {
+      "country_code": "PHL",
+      "country_name": "Philippines",
+      "month": "2026-04",
+      "value": 23.86,
+      "peak": 101.9,
+      "stations": 4,
+      "days_reported": 30,
+      "days_above_guideline": 25
+    },
+    {
+      "country_code": "POL",
+      "country_name": "Poland",
+      "month": "2026-04",
+      "value": 19.13,
+      "peak": 169.2,
+      "stations": 5,
+      "days_reported": 30,
+      "days_above_guideline": 17
+    },
+    {
+      "country_code": "PRT",
+      "country_name": "Portugal",
+      "month": "2026-04",
+      "value": 4.45,
+      "peak": 33.3,
+      "stations": 2,
+      "days_reported": 30,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "ROU",
+      "country_name": "Romania",
+      "month": "2026-04",
+      "value": 11.56,
+      "peak": 77.62,
+      "stations": 4,
+      "days_reported": 30,
+      "days_above_guideline": 3
+    },
+    {
+      "country_code": "SEN",
+      "country_name": "Senegal",
+      "month": "2026-04",
+      "value": 12.86,
+      "peak": 79.9,
+      "stations": 3,
+      "days_reported": 30,
+      "days_above_guideline": 11
+    },
+    {
+      "country_code": "SRB",
+      "country_name": "Republic of Serbia",
+      "month": "2026-04",
+      "value": 24.92,
+      "peak": 108.4,
+      "stations": 1,
+      "days_reported": 30,
+      "days_above_guideline": 23
+    },
+    {
+      "country_code": "SVK",
+      "country_name": "Slovakia",
+      "month": "2026-04",
+      "value": 10.12,
+      "peak": 39.46,
+      "stations": 4,
+      "days_reported": 30,
+      "days_above_guideline": 4
+    },
+    {
+      "country_code": "SVN",
+      "country_name": "Slovenia",
+      "month": "2026-04",
+      "value": 11.19,
+      "peak": 63.8,
+      "stations": 4,
+      "days_reported": 30,
+      "days_above_guideline": 7
+    },
+    {
+      "country_code": "SWE",
+      "country_name": "Sweden",
+      "month": "2026-04",
+      "value": 5.86,
+      "peak": 56.8,
+      "stations": 7,
+      "days_reported": 30,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "THA",
+      "country_name": "Thailand",
+      "month": "2026-04",
+      "value": 71.87,
+      "peak": 735.3,
+      "stations": 25,
+      "days_reported": 30,
+      "days_above_guideline": 30
+    },
+    {
+      "country_code": "TUR",
+      "country_name": "Turkey",
+      "month": "2026-04",
+      "value": 9.95,
+      "peak": 21.88,
+      "stations": 1,
+      "days_reported": 30,
+      "days_above_guideline": 2
+    },
+    {
+      "country_code": "TWN",
+      "country_name": "Taiwan",
+      "month": "2026-04",
+      "value": 13.84,
+      "peak": 39.0,
+      "stations": 5,
+      "days_reported": 30,
+      "days_above_guideline": 15
+    },
+    {
+      "country_code": "UGA",
+      "country_name": "Uganda",
+      "month": "2026-04",
+      "value": 49.48,
+      "peak": 1753.8,
+      "stations": 2,
+      "days_reported": 30,
+      "days_above_guideline": 30
+    },
+    {
+      "country_code": "UKR",
+      "country_name": "Ukraine",
+      "month": "2026-04",
+      "value": 13.12,
+      "peak": 82.0,
+      "stations": 3,
+      "days_reported": 30,
+      "days_above_guideline": 9
+    },
+    {
+      "country_code": "USA",
+      "country_name": "United States of America",
+      "month": "2026-04",
+      "value": 5.55,
+      "peak": 3485.99,
+      "stations": 255,
+      "days_reported": 30,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "ZAF",
+      "country_name": "South Africa",
+      "month": "2026-04",
+      "value": 12.63,
+      "peak": 120.1,
+      "stations": 2,
+      "days_reported": 30,
+      "days_above_guideline": 10
+    },
+    {
+      "country_code": "ALB",
+      "country_name": "Albania",
+      "month": "2026-05",
+      "value": 4.4,
+      "peak": 33.9,
+      "stations": 1,
+      "days_reported": 31,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "ARM",
+      "country_name": "Armenia",
+      "month": "2026-05",
+      "value": 10.48,
+      "peak": 30.5,
+      "stations": 1,
+      "days_reported": 31,
+      "days_above_guideline": 3
+    },
+    {
+      "country_code": "AUS",
+      "country_name": "Australia",
+      "month": "2026-05",
+      "value": 5.03,
+      "peak": 65.62,
+      "stations": 10,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "AUT",
+      "country_name": "Austria",
+      "month": "2026-05",
+      "value": 6.58,
+      "peak": 54.7,
+      "stations": 8,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "BEL",
+      "country_name": "Belgium",
+      "month": "2026-05",
+      "value": 7.44,
+      "peak": 320.3,
+      "stations": 8,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "BFA",
+      "country_name": "Burkina Faso",
+      "month": "2026-05",
+      "value": 12.24,
+      "peak": 196.72,
+      "stations": 1,
+      "days_reported": 29,
+      "days_above_guideline": 3
+    },
+    {
+      "country_code": "BGR",
+      "country_name": "Bulgaria",
+      "month": "2026-05",
+      "value": 7.45,
+      "peak": 306.73,
+      "stations": 6,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "BIH",
+      "country_name": "Bosnia and Herzegovina",
+      "month": "2026-05",
+      "value": 9.02,
+      "peak": 38.9,
+      "stations": 1,
+      "days_reported": 30,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "BRA",
+      "country_name": "Brazil",
+      "month": "2026-05",
+      "value": 10.64,
+      "peak": 136.24,
+      "stations": 4,
+      "days_reported": 31,
+      "days_above_guideline": 6
+    },
+    {
+      "country_code": "CAN",
+      "country_name": "Canada",
+      "month": "2026-05",
+      "value": 3.71,
+      "peak": 77.2,
+      "stations": 25,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "CHE",
+      "country_name": "Switzerland",
+      "month": "2026-05",
+      "value": 7.4,
+      "peak": 68.8,
+      "stations": 3,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "CHL",
+      "country_name": "Chile",
+      "month": "2026-05",
+      "value": 35.19,
+      "peak": 111.0,
+      "stations": 9,
+      "days_reported": 31,
+      "days_above_guideline": 31
+    },
+    {
+      "country_code": "CHN",
+      "country_name": "China",
+      "month": "2026-05",
+      "value": 11.36,
+      "peak": 53.6,
+      "stations": 3,
+      "days_reported": 31,
+      "days_above_guideline": 6
+    },
+    {
+      "country_code": "CIV",
+      "country_name": "Ivory Coast",
+      "month": "2026-05",
+      "value": 8.6,
+      "peak": 43.0,
+      "stations": 2,
+      "days_reported": 31,
+      "days_above_guideline": 2
+    },
+    {
+      "country_code": "CMR",
+      "country_name": "Cameroon",
+      "month": "2026-05",
+      "value": 17.87,
+      "peak": 95.5,
+      "stations": 1,
+      "days_reported": 29,
+      "days_above_guideline": 18
+    },
+    {
+      "country_code": "COD",
+      "country_name": "Democratic Republic of the Congo",
+      "month": "2026-05",
+      "value": 73.75,
+      "peak": 336.7,
+      "stations": 1,
+      "days_reported": 21,
+      "days_above_guideline": 21
+    },
+    {
+      "country_code": "CZE",
+      "country_name": "Czechia",
+      "month": "2026-05",
+      "value": 8.17,
+      "peak": 75.3,
+      "stations": 5,
+      "days_reported": 31,
+      "days_above_guideline": 2
+    },
+    {
+      "country_code": "DEU",
+      "country_name": "Germany",
+      "month": "2026-05",
+      "value": 7.06,
+      "peak": 389.5,
+      "stations": 31,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "ESP",
+      "country_name": "Spain",
+      "month": "2026-05",
+      "value": 8.23,
+      "peak": 376.0,
+      "stations": 16,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "EST",
+      "country_name": "Estonia",
+      "month": "2026-05",
+      "value": 3.88,
+      "peak": 34.0,
+      "stations": 1,
+      "days_reported": 31,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "FIN",
+      "country_name": "Finland",
+      "month": "2026-05",
+      "value": 2.88,
+      "peak": 36.23,
+      "stations": 4,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "FRA",
+      "country_name": "France",
+      "month": "2026-05",
+      "value": 7.1,
+      "peak": 49.3,
+      "stations": 22,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "GBR",
+      "country_name": "United Kingdom",
+      "month": "2026-05",
+      "value": 8.54,
+      "peak": 58.3,
+      "stations": 21,
+      "days_reported": 31,
+      "days_above_guideline": 6
+    },
+    {
+      "country_code": "GHA",
+      "country_name": "Ghana",
+      "month": "2026-05",
+      "value": 16.7,
+      "peak": 241.8,
+      "stations": 8,
+      "days_reported": 31,
+      "days_above_guideline": 18
+    },
+    {
+      "country_code": "GRC",
+      "country_name": "Greece",
+      "month": "2026-05",
+      "value": 5.85,
+      "peak": 66.0,
+      "stations": 4,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "HND",
+      "country_name": "Honduras",
+      "month": "2026-05",
+      "value": 33.25,
+      "peak": 358.7,
+      "stations": 7,
+      "days_reported": 31,
+      "days_above_guideline": 27
+    },
+    {
+      "country_code": "HRV",
+      "country_name": "Croatia",
+      "month": "2026-05",
+      "value": 5.93,
+      "peak": 15.7,
+      "stations": 1,
+      "days_reported": 30,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "HUN",
+      "country_name": "Hungary",
+      "month": "2026-05",
+      "value": 8.16,
+      "peak": 157.0,
+      "stations": 3,
+      "days_reported": 29,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "IND",
+      "country_name": "India",
+      "month": "2026-05",
+      "value": 53.1,
+      "peak": 381490.28,
+      "stations": 53,
+      "days_reported": 31,
+      "days_above_guideline": 31
+    },
+    {
+      "country_code": "IRL",
+      "country_name": "Ireland",
+      "month": "2026-05",
+      "value": 6.23,
+      "peak": 30.52,
+      "stations": 4,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "ISL",
+      "country_name": "Iceland",
+      "month": "2026-05",
+      "value": 4.28,
+      "peak": 81.56,
+      "stations": 1,
+      "days_reported": 31,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "ITA",
+      "country_name": "Italy",
+      "month": "2026-05",
+      "value": 10.46,
+      "peak": 48.94,
+      "stations": 11,
+      "days_reported": 31,
+      "days_above_guideline": 4
+    },
+    {
+      "country_code": "JPN",
+      "country_name": "Japan",
+      "month": "2026-05",
+      "value": 9.16,
+      "peak": 92.0,
+      "stations": 69,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "KAZ",
+      "country_name": "Kazakhstan",
+      "month": "2026-05",
+      "value": 16.23,
+      "peak": 209.5,
+      "stations": 11,
+      "days_reported": 31,
+      "days_above_guideline": 16
+    },
+    {
+      "country_code": "KGZ",
+      "country_name": "Kyrgyzstan",
+      "month": "2026-05",
+      "value": 18.41,
+      "peak": 243.78,
+      "stations": 4,
+      "days_reported": 31,
+      "days_above_guideline": 24
+    },
+    {
+      "country_code": "KOR",
+      "country_name": "South Korea",
+      "month": "2026-05",
+      "value": 541.15,
+      "peak": 9999.0,
+      "stations": 42,
+      "days_reported": 31,
+      "days_above_guideline": 31
+    },
+    {
+      "country_code": "LAO",
+      "country_name": "Laos",
+      "month": "2026-05",
+      "value": 15.69,
+      "peak": 358.6,
+      "stations": 12,
+      "days_reported": 31,
+      "days_above_guideline": 14
+    },
+    {
+      "country_code": "LBN",
+      "country_name": "Lebanon",
+      "month": "2026-05",
+      "value": 12.71,
+      "peak": 52.0,
+      "stations": 3,
+      "days_reported": 31,
+      "days_above_guideline": 9
+    },
+    {
+      "country_code": "LBR",
+      "country_name": "Liberia",
+      "month": "2026-05",
+      "value": 8.75,
+      "peak": 34.4,
+      "stations": 1,
+      "days_reported": 15,
+      "days_above_guideline": 2
+    },
+    {
+      "country_code": "LVA",
+      "country_name": "Latvia",
+      "month": "2026-05",
+      "value": 5.33,
+      "peak": 52.0,
+      "stations": 2,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "MAR",
+      "country_name": "Morocco",
+      "month": "2026-05",
+      "value": 16.9,
+      "peak": 498.9,
+      "stations": 1,
+      "days_reported": 28,
+      "days_above_guideline": 12
+    },
+    {
+      "country_code": "MDA",
+      "country_name": "Moldova",
+      "month": "2026-05",
+      "value": 12.43,
+      "peak": 127.6,
+      "stations": 1,
+      "days_reported": 30,
+      "days_above_guideline": 8
+    },
+    {
+      "country_code": "MEX",
+      "country_name": "Mexico",
+      "month": "2026-05",
+      "value": 27.67,
+      "peak": 983.1,
+      "stations": 5,
+      "days_reported": 31,
+      "days_above_guideline": 31
+    },
+    {
+      "country_code": "MKD",
+      "country_name": "North Macedonia",
+      "month": "2026-05",
+      "value": 11.5,
+      "peak": 31.44,
+      "stations": 1,
+      "days_reported": 31,
+      "days_above_guideline": 4
+    },
+    {
+      "country_code": "MOZ",
+      "country_name": "Mozambique",
+      "month": "2026-05",
+      "value": 31.57,
+      "peak": 128.4,
+      "stations": 2,
+      "days_reported": 14,
+      "days_above_guideline": 11
+    },
+    {
+      "country_code": "MWI",
+      "country_name": "Malawi",
+      "month": "2026-05",
+      "value": 23.12,
+      "peak": 220.7,
+      "stations": 2,
+      "days_reported": 31,
+      "days_above_guideline": 29
+    },
+    {
+      "country_code": "MYS",
+      "country_name": "Malaysia",
+      "month": "2026-05",
+      "value": 11.84,
+      "peak": 20.96,
+      "stations": 1,
+      "days_reported": 31,
+      "days_above_guideline": 4
+    },
+    {
+      "country_code": "NGA",
+      "country_name": "Nigeria",
+      "month": "2026-05",
+      "value": 30.13,
+      "peak": 225.2,
+      "stations": 4,
+      "days_reported": 31,
+      "days_above_guideline": 30
+    },
+    {
+      "country_code": "NLD",
+      "country_name": "Netherlands",
+      "month": "2026-05",
+      "value": 8.8,
+      "peak": 430.3,
+      "stations": 15,
+      "days_reported": 31,
+      "days_above_guideline": 4
+    },
+    {
+      "country_code": "NOR",
+      "country_name": "Norway",
+      "month": "2026-05",
+      "value": 4.2,
+      "peak": 18.7,
+      "stations": 3,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "NPL",
+      "country_name": "Nepal",
+      "month": "2026-05",
+      "value": 47.82,
+      "peak": 86.2,
+      "stations": 4,
+      "days_reported": 25,
+      "days_above_guideline": 25
+    },
+    {
+      "country_code": "NZL",
+      "country_name": "New Zealand",
+      "month": "2026-05",
+      "value": 12.69,
+      "peak": 99.59,
+      "stations": 2,
+      "days_reported": 31,
+      "days_above_guideline": 11
+    },
+    {
+      "country_code": "PAK",
+      "country_name": "Pakistan",
+      "month": "2026-05",
+      "value": 41.05,
+      "peak": 510.0,
+      "stations": 26,
+      "days_reported": 31,
+      "days_above_guideline": 31
+    },
+    {
+      "country_code": "PHL",
+      "country_name": "Philippines",
+      "month": "2026-05",
+      "value": 19.79,
+      "peak": 163.8,
+      "stations": 5,
+      "days_reported": 31,
+      "days_above_guideline": 15
+    },
+    {
+      "country_code": "POL",
+      "country_name": "Poland",
+      "month": "2026-05",
+      "value": 14.34,
+      "peak": 56.7,
+      "stations": 5,
+      "days_reported": 31,
+      "days_above_guideline": 13
+    },
+    {
+      "country_code": "PRT",
+      "country_name": "Portugal",
+      "month": "2026-05",
+      "value": 5.76,
+      "peak": 32.3,
+      "stations": 2,
+      "days_reported": 31,
+      "days_above_guideline": 3
+    },
+    {
+      "country_code": "ROU",
+      "country_name": "Romania",
+      "month": "2026-05",
+      "value": 9.36,
+      "peak": 105.09,
+      "stations": 4,
+      "days_reported": 31,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "SEN",
+      "country_name": "Senegal",
+      "month": "2026-05",
+      "value": 10.34,
+      "peak": 70.1,
+      "stations": 3,
+      "days_reported": 31,
+      "days_above_guideline": 7
+    },
+    {
+      "country_code": "SRB",
+      "country_name": "Republic of Serbia",
+      "month": "2026-05",
+      "value": 14.92,
+      "peak": 103.0,
+      "stations": 1,
+      "days_reported": 31,
+      "days_above_guideline": 15
+    },
+    {
+      "country_code": "SVK",
+      "country_name": "Slovakia",
+      "month": "2026-05",
+      "value": 8.63,
+      "peak": 31.52,
+      "stations": 4,
+      "days_reported": 31,
+      "days_above_guideline": 2
+    },
+    {
+      "country_code": "SVN",
+      "country_name": "Slovenia",
+      "month": "2026-05",
+      "value": 5.25,
+      "peak": 154.0,
+      "stations": 4,
+      "days_reported": 31,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "SWE",
+      "country_name": "Sweden",
+      "month": "2026-05",
+      "value": 4.71,
+      "peak": 45.9,
+      "stations": 7,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "THA",
+      "country_name": "Thailand",
+      "month": "2026-05",
+      "value": 17.91,
+      "peak": 1669.1,
+      "stations": 23,
+      "days_reported": 31,
+      "days_above_guideline": 15
+    },
+    {
+      "country_code": "TJK",
+      "country_name": "Tajikistan",
+      "month": "2026-05",
+      "value": 21.49,
+      "peak": 53.0,
+      "stations": 1,
+      "days_reported": 3,
+      "days_above_guideline": 3
+    },
+    {
+      "country_code": "TUR",
+      "country_name": "Turkey",
+      "month": "2026-05",
+      "value": 13.56,
+      "peak": 28.24,
+      "stations": 1,
+      "days_reported": 31,
+      "days_above_guideline": 16
+    },
+    {
+      "country_code": "TWN",
+      "country_name": "Taiwan",
+      "month": "2026-05",
+      "value": 9.94,
+      "peak": 32.0,
+      "stations": 5,
+      "days_reported": 31,
+      "days_above_guideline": 2
+    },
+    {
+      "country_code": "UGA",
+      "country_name": "Uganda",
+      "month": "2026-05",
+      "value": 47.63,
+      "peak": 1013.4,
+      "stations": 2,
+      "days_reported": 29,
+      "days_above_guideline": 27
+    },
+    {
+      "country_code": "UKR",
+      "country_name": "Ukraine",
+      "month": "2026-05",
+      "value": 8.93,
+      "peak": 46.8,
+      "stations": 3,
+      "days_reported": 31,
+      "days_above_guideline": 2
+    },
+    {
+      "country_code": "USA",
+      "country_name": "United States of America",
+      "month": "2026-05",
+      "value": 6.05,
+      "peak": 6832.24,
+      "stations": 266,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "ZAF",
+      "country_name": "South Africa",
+      "month": "2026-05",
+      "value": 20.43,
+      "peak": 266.3,
+      "stations": 2,
+      "days_reported": 31,
+      "days_above_guideline": 23
+    },
+    {
+      "country_code": "ALB",
+      "country_name": "Albania",
+      "month": "2026-06",
+      "value": 3.89,
+      "peak": 15.0,
+      "stations": 1,
+      "days_reported": 11,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "ARG",
+      "country_name": "Argentina",
+      "month": "2026-06",
+      "value": 12.15,
+      "peak": 220.6,
+      "stations": 4,
+      "days_reported": 28,
+      "days_above_guideline": 6
+    },
+    {
+      "country_code": "ARM",
+      "country_name": "Armenia",
+      "month": "2026-06",
+      "value": 10.66,
+      "peak": 30.01,
+      "stations": 1,
+      "days_reported": 30,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "AUS",
+      "country_name": "Australia",
+      "month": "2026-06",
+      "value": 5.24,
+      "peak": 41.0,
+      "stations": 10,
+      "days_reported": 30,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "AUT",
+      "country_name": "Austria",
+      "month": "2026-06",
+      "value": 8.18,
+      "peak": 52.5,
+      "stations": 8,
+      "days_reported": 30,
+      "days_above_guideline": 2
+    },
+    {
+      "country_code": "BEL",
+      "country_name": "Belgium",
+      "month": "2026-06",
+      "value": 7.17,
+      "peak": 34.54,
+      "stations": 7,
+      "days_reported": 24,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "BFA",
+      "country_name": "Burkina Faso",
+      "month": "2026-06",
+      "value": 10.86,
+      "peak": 68.96,
+      "stations": 1,
+      "days_reported": 30,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "BGR",
+      "country_name": "Bulgaria",
+      "month": "2026-06",
+      "value": 9.05,
+      "peak": 78.8,
+      "stations": 6,
+      "days_reported": 30,
+      "days_above_guideline": 3
+    },
+    {
+      "country_code": "BIH",
+      "country_name": "Bosnia and Herzegovina",
+      "month": "2026-06",
+      "value": 9.87,
+      "peak": 72.4,
+      "stations": 1,
+      "days_reported": 25,
+      "days_above_guideline": 3
+    },
+    {
+      "country_code": "BRA",
+      "country_name": "Brazil",
+      "month": "2026-06",
+      "value": 15.95,
+      "peak": 180.12,
+      "stations": 5,
+      "days_reported": 30,
+      "days_above_guideline": 12
+    },
+    {
+      "country_code": "CAN",
+      "country_name": "Canada",
+      "month": "2026-06",
+      "value": 4.81,
+      "peak": 341.4,
+      "stations": 26,
+      "days_reported": 30,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "CHE",
+      "country_name": "Switzerland",
+      "month": "2026-06",
+      "value": 8.48,
+      "peak": 36.0,
+      "stations": 3,
+      "days_reported": 30,
+      "days_above_guideline": 7
+    },
+    {
+      "country_code": "CHL",
+      "country_name": "Chile",
+      "month": "2026-06",
+      "value": 31.47,
+      "peak": 110.0,
+      "stations": 10,
+      "days_reported": 30,
+      "days_above_guideline": 30
+    },
+    {
+      "country_code": "CHN",
+      "country_name": "China",
+      "month": "2026-06",
+      "value": 11.24,
+      "peak": 39.6,
+      "stations": 1,
+      "days_reported": 30,
+      "days_above_guideline": 10
+    },
+    {
+      "country_code": "CIV",
+      "country_name": "Ivory Coast",
+      "month": "2026-06",
+      "value": 8.14,
+      "peak": 70.22,
+      "stations": 2,
+      "days_reported": 30,
+      "days_above_guideline": 2
+    },
+    {
+      "country_code": "CMR",
+      "country_name": "Cameroon",
+      "month": "2026-06",
+      "value": 27.29,
+      "peak": 227.2,
+      "stations": 1,
+      "days_reported": 26,
+      "days_above_guideline": 24
+    },
+    {
+      "country_code": "COD",
+      "country_name": "Democratic Republic of the Congo",
+      "month": "2026-06",
+      "value": 102.21,
+      "peak": 392.9,
+      "stations": 1,
+      "days_reported": 7,
+      "days_above_guideline": 7
+    },
+    {
+      "country_code": "CZE",
+      "country_name": "Czechia",
+      "month": "2026-06",
+      "value": 9.73,
+      "peak": 61.9,
+      "stations": 6,
+      "days_reported": 30,
+      "days_above_guideline": 8
+    },
+    {
+      "country_code": "DEU",
+      "country_name": "Germany",
+      "month": "2026-06",
+      "value": 7.55,
+      "peak": 178.78,
+      "stations": 32,
+      "days_reported": 30,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "ESP",
+      "country_name": "Spain",
+      "month": "2026-06",
+      "value": 10.08,
+      "peak": 532.0,
+      "stations": 16,
+      "days_reported": 30,
+      "days_above_guideline": 2
+    },
+    {
+      "country_code": "EST",
+      "country_name": "Estonia",
+      "month": "2026-06",
+      "value": 5.83,
+      "peak": 39.9,
+      "stations": 1,
+      "days_reported": 30,
+      "days_above_guideline": 2
+    },
+    {
+      "country_code": "FIN",
+      "country_name": "Finland",
+      "month": "2026-06",
+      "value": 3.64,
+      "peak": 21.89,
+      "stations": 4,
+      "days_reported": 30,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "FLK",
+      "country_name": "Falkland Islands",
+      "month": "2026-06",
+      "value": 0.36,
+      "peak": 3.1,
+      "stations": 1,
+      "days_reported": 4,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "FRA",
+      "country_name": "France",
+      "month": "2026-06",
+      "value": 7.76,
+      "peak": 66.1,
+      "stations": 22,
+      "days_reported": 30,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "GBR",
+      "country_name": "United Kingdom",
+      "month": "2026-06",
+      "value": 5.91,
+      "peak": 62.0,
+      "stations": 20,
+      "days_reported": 30,
+      "days_above_guideline": 2
+    },
+    {
+      "country_code": "GHA",
+      "country_name": "Ghana",
+      "month": "2026-06",
+      "value": 20.88,
+      "peak": 151.9,
+      "stations": 8,
+      "days_reported": 30,
+      "days_above_guideline": 27
+    },
+    {
+      "country_code": "GMB",
+      "country_name": "Gambia",
+      "month": "2026-06",
+      "value": 10.54,
+      "peak": 12.5,
+      "stations": 1,
+      "days_reported": 2,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "GRC",
+      "country_name": "Greece",
+      "month": "2026-06",
+      "value": 5.62,
+      "peak": 23.9,
+      "stations": 3,
+      "days_reported": 30,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "HND",
+      "country_name": "Honduras",
+      "month": "2026-06",
+      "value": 5.96,
+      "peak": 163.2,
+      "stations": 7,
+      "days_reported": 30,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "HRV",
+      "country_name": "Croatia",
+      "month": "2026-06",
+      "value": 9.58,
+      "peak": 31.7,
+      "stations": 1,
+      "days_reported": 30,
+      "days_above_guideline": 6
+    },
+    {
+      "country_code": "HUN",
+      "country_name": "Hungary",
+      "month": "2026-06",
+      "value": 8.64,
+      "peak": 33.0,
+      "stations": 3,
+      "days_reported": 30,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "IND",
+      "country_name": "India",
+      "month": "2026-06",
+      "value": 33.67,
+      "peak": 824.2,
+      "stations": 53,
+      "days_reported": 30,
+      "days_above_guideline": 30
+    },
+    {
+      "country_code": "IRL",
+      "country_name": "Ireland",
+      "month": "2026-06",
+      "value": 4.97,
+      "peak": 28.6,
+      "stations": 4,
+      "days_reported": 30,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "ISL",
+      "country_name": "Iceland",
+      "month": "2026-06",
+      "value": 3.95,
+      "peak": 93.18,
+      "stations": 1,
+      "days_reported": 30,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "ITA",
+      "country_name": "Italy",
+      "month": "2026-06",
+      "value": 12.22,
+      "peak": 62.0,
+      "stations": 14,
+      "days_reported": 30,
+      "days_above_guideline": 10
+    },
+    {
+      "country_code": "JPN",
+      "country_name": "Japan",
+      "month": "2026-06",
+      "value": 7.52,
+      "peak": 136.0,
+      "stations": 69,
+      "days_reported": 30,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "KAZ",
+      "country_name": "Kazakhstan",
+      "month": "2026-06",
+      "value": 12.92,
+      "peak": 207.6,
+      "stations": 11,
+      "days_reported": 30,
+      "days_above_guideline": 6
+    },
+    {
+      "country_code": "KGZ",
+      "country_name": "Kyrgyzstan",
+      "month": "2026-06",
+      "value": 15.37,
+      "peak": 85.02,
+      "stations": 4,
+      "days_reported": 30,
+      "days_above_guideline": 16
+    },
+    {
+      "country_code": "KOR",
+      "country_name": "South Korea",
+      "month": "2026-06",
+      "value": 773.59,
+      "peak": 9999.0,
+      "stations": 42,
+      "days_reported": 30,
+      "days_above_guideline": 30
+    },
+    {
+      "country_code": "LAO",
+      "country_name": "Laos",
+      "month": "2026-06",
+      "value": 6.95,
+      "peak": 297.9,
+      "stations": 12,
+      "days_reported": 30,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "LBN",
+      "country_name": "Lebanon",
+      "month": "2026-06",
+      "value": 19.29,
+      "peak": 41.4,
+      "stations": 2,
+      "days_reported": 30,
+      "days_above_guideline": 19
+    },
+    {
+      "country_code": "LBR",
+      "country_name": "Liberia",
+      "month": "2026-06",
+      "value": 9.35,
+      "peak": 37.3,
+      "stations": 1,
+      "days_reported": 22,
+      "days_above_guideline": 8
+    },
+    {
+      "country_code": "LVA",
+      "country_name": "Latvia",
+      "month": "2026-06",
+      "value": 5.76,
+      "peak": 199.0,
+      "stations": 2,
+      "days_reported": 30,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "MAR",
+      "country_name": "Morocco",
+      "month": "2026-06",
+      "value": 16.38,
+      "peak": 83.7,
+      "stations": 1,
+      "days_reported": 26,
+      "days_above_guideline": 14
+    },
+    {
+      "country_code": "MDA",
+      "country_name": "Moldova",
+      "month": "2026-06",
+      "value": 13.38,
+      "peak": 39.7,
+      "stations": 1,
+      "days_reported": 29,
+      "days_above_guideline": 9
+    },
+    {
+      "country_code": "MEX",
+      "country_name": "Mexico",
+      "month": "2026-06",
+      "value": 27.36,
+      "peak": 949.9,
+      "stations": 5,
+      "days_reported": 30,
+      "days_above_guideline": 22
+    },
+    {
+      "country_code": "MKD",
+      "country_name": "North Macedonia",
+      "month": "2026-06",
+      "value": 9.79,
+      "peak": 23.41,
+      "stations": 1,
+      "days_reported": 29,
+      "days_above_guideline": 2
+    },
+    {
+      "country_code": "MOZ",
+      "country_name": "Mozambique",
+      "month": "2026-06",
+      "value": 41.6,
+      "peak": 279.1,
+      "stations": 1,
+      "days_reported": 27,
+      "days_above_guideline": 27
+    },
+    {
+      "country_code": "MWI",
+      "country_name": "Malawi",
+      "month": "2026-06",
+      "value": 39.4,
+      "peak": 701.1,
+      "stations": 2,
+      "days_reported": 30,
+      "days_above_guideline": 30
+    },
+    {
+      "country_code": "MYS",
+      "country_name": "Malaysia",
+      "month": "2026-06",
+      "value": 11.01,
+      "peak": 17.51,
+      "stations": 1,
+      "days_reported": 30,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "NGA",
+      "country_name": "Nigeria",
+      "month": "2026-06",
+      "value": 34.23,
+      "peak": 203.2,
+      "stations": 4,
+      "days_reported": 30,
+      "days_above_guideline": 30
+    },
+    {
+      "country_code": "NLD",
+      "country_name": "Netherlands",
+      "month": "2026-06",
+      "value": 6.56,
+      "peak": 77.6,
+      "stations": 14,
+      "days_reported": 30,
+      "days_above_guideline": 2
+    },
+    {
+      "country_code": "NOR",
+      "country_name": "Norway",
+      "month": "2026-06",
+      "value": 4.23,
+      "peak": 18.43,
+      "stations": 3,
+      "days_reported": 30,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "NPL",
+      "country_name": "Nepal",
+      "month": "2026-06",
+      "value": 42.87,
+      "peak": 180.4,
+      "stations": 4,
+      "days_reported": 30,
+      "days_above_guideline": 30
+    },
+    {
+      "country_code": "NZL",
+      "country_name": "New Zealand",
+      "month": "2026-06",
+      "value": 15.15,
+      "peak": 181.28,
+      "stations": 2,
+      "days_reported": 30,
+      "days_above_guideline": 13
+    },
+    {
+      "country_code": "PAK",
+      "country_name": "Pakistan",
+      "month": "2026-06",
+      "value": 36.37,
+      "peak": 311.0,
+      "stations": 24,
+      "days_reported": 30,
+      "days_above_guideline": 30
+    },
+    {
+      "country_code": "PHL",
+      "country_name": "Philippines",
+      "month": "2026-06",
+      "value": 14.59,
+      "peak": 83.6,
+      "stations": 7,
+      "days_reported": 30,
+      "days_above_guideline": 13
+    },
+    {
+      "country_code": "POL",
+      "country_name": "Poland",
+      "month": "2026-06",
+      "value": 14.69,
+      "peak": 140.6,
+      "stations": 5,
+      "days_reported": 30,
+      "days_above_guideline": 16
+    },
+    {
+      "country_code": "PRT",
+      "country_name": "Portugal",
+      "month": "2026-06",
+      "value": 5.32,
+      "peak": 32.1,
+      "stations": 2,
+      "days_reported": 30,
+      "days_above_guideline": 4
+    },
+    {
+      "country_code": "PRY",
+      "country_name": "Paraguay",
+      "month": "2026-06",
+      "value": 19.07,
+      "peak": 142.4,
+      "stations": 1,
+      "days_reported": 11,
+      "days_above_guideline": 6
+    },
+    {
+      "country_code": "ROU",
+      "country_name": "Romania",
+      "month": "2026-06",
+      "value": 9.73,
+      "peak": 65.91,
+      "stations": 4,
+      "days_reported": 30,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "SEN",
+      "country_name": "Senegal",
+      "month": "2026-06",
+      "value": 8.9,
+      "peak": 113.0,
+      "stations": 3,
+      "days_reported": 30,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "SRB",
+      "country_name": "Republic of Serbia",
+      "month": "2026-06",
+      "value": 15.6,
+      "peak": 71.6,
+      "stations": 1,
+      "days_reported": 30,
+      "days_above_guideline": 15
+    },
+    {
+      "country_code": "SVK",
+      "country_name": "Slovakia",
+      "month": "2026-06",
+      "value": 11.66,
+      "peak": 43.95,
+      "stations": 4,
+      "days_reported": 30,
+      "days_above_guideline": 6
+    },
+    {
+      "country_code": "SVN",
+      "country_name": "Slovenia",
+      "month": "2026-06",
+      "value": 8.7,
+      "peak": 171.0,
+      "stations": 4,
+      "days_reported": 30,
+      "days_above_guideline": 5
+    },
+    {
+      "country_code": "SWE",
+      "country_name": "Sweden",
+      "month": "2026-06",
+      "value": 5.0,
+      "peak": 37.7,
+      "stations": 7,
+      "days_reported": 30,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "THA",
+      "country_name": "Thailand",
+      "month": "2026-06",
+      "value": 9.5,
+      "peak": 139.1,
+      "stations": 21,
+      "days_reported": 30,
+      "days_above_guideline": 3
+    },
+    {
+      "country_code": "TJK",
+      "country_name": "Tajikistan",
+      "month": "2026-06",
+      "value": 35.31,
+      "peak": 367.0,
+      "stations": 1,
+      "days_reported": 30,
+      "days_above_guideline": 30
+    },
+    {
+      "country_code": "TUR",
+      "country_name": "Turkey",
+      "month": "2026-06",
+      "value": 20.75,
+      "peak": 33.79,
+      "stations": 1,
+      "days_reported": 30,
+      "days_above_guideline": 30
+    },
+    {
+      "country_code": "TWN",
+      "country_name": "Taiwan",
+      "month": "2026-06",
+      "value": 7.42,
+      "peak": 49.0,
+      "stations": 5,
+      "days_reported": 30,
+      "days_above_guideline": 2
+    },
+    {
+      "country_code": "UGA",
+      "country_name": "Uganda",
+      "month": "2026-06",
+      "value": 49.94,
+      "peak": 821.2,
+      "stations": 2,
+      "days_reported": 30,
+      "days_above_guideline": 30
+    },
+    {
+      "country_code": "UKR",
+      "country_name": "Ukraine",
+      "month": "2026-06",
+      "value": 11.54,
+      "peak": 89.5,
+      "stations": 3,
+      "days_reported": 30,
+      "days_above_guideline": 8
+    },
+    {
+      "country_code": "USA",
+      "country_name": "United States of America",
+      "month": "2026-06",
+      "value": 6.08,
+      "peak": 224.7,
+      "stations": 267,
+      "days_reported": 30,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "ZAF",
+      "country_name": "South Africa",
+      "month": "2026-06",
+      "value": 27.62,
+      "peak": 212.6,
+      "stations": 2,
+      "days_reported": 30,
+      "days_above_guideline": 26
+    },
+    {
+      "country_code": "ARG",
+      "country_name": "Argentina",
+      "month": "2026-07",
+      "value": 11.95,
+      "peak": 127.6,
+      "stations": 4,
+      "days_reported": 31,
+      "days_above_guideline": 8
+    },
+    {
+      "country_code": "ARM",
+      "country_name": "Armenia",
+      "month": "2026-07",
+      "value": 14.9,
+      "peak": 29.38,
+      "stations": 1,
+      "days_reported": 31,
+      "days_above_guideline": 13
+    },
+    {
+      "country_code": "AUS",
+      "country_name": "Australia",
+      "month": "2026-07",
+      "value": 5.31,
+      "peak": 325.87,
+      "stations": 11,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "AUT",
+      "country_name": "Austria",
+      "month": "2026-07",
+      "value": 7.21,
+      "peak": 44.3,
+      "stations": 8,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "BEL",
+      "country_name": "Belgium",
+      "month": "2026-07",
+      "value": 6.04,
+      "peak": 41.83,
+      "stations": 7,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "BFA",
+      "country_name": "Burkina Faso",
+      "month": "2026-07",
+      "value": 11.06,
+      "peak": 52.25,
+      "stations": 1,
+      "days_reported": 27,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "BGR",
+      "country_name": "Bulgaria",
+      "month": "2026-07",
+      "value": 8.44,
+      "peak": 110.5,
+      "stations": 6,
+      "days_reported": 31,
+      "days_above_guideline": 4
+    },
+    {
+      "country_code": "BIH",
+      "country_name": "Bosnia and Herzegovina",
+      "month": "2026-07",
+      "value": 11.81,
+      "peak": 135.6,
+      "stations": 1,
+      "days_reported": 16,
+      "days_above_guideline": 5
+    },
+    {
+      "country_code": "BRA",
+      "country_name": "Brazil",
+      "month": "2026-07",
+      "value": 13.8,
+      "peak": 187.42,
+      "stations": 5,
+      "days_reported": 31,
+      "days_above_guideline": 10
+    },
+    {
+      "country_code": "CAN",
+      "country_name": "Canada",
+      "month": "2026-07",
+      "value": 14.01,
+      "peak": 467.9,
+      "stations": 28,
+      "days_reported": 31,
+      "days_above_guideline": 15
+    },
+    {
+      "country_code": "CHE",
+      "country_name": "Switzerland",
+      "month": "2026-07",
+      "value": 9.02,
+      "peak": 41.6,
+      "stations": 3,
+      "days_reported": 31,
+      "days_above_guideline": 5
+    },
+    {
+      "country_code": "CHL",
+      "country_name": "Chile",
+      "month": "2026-07",
+      "value": 25.03,
+      "peak": 92.0,
+      "stations": 10,
+      "days_reported": 31,
+      "days_above_guideline": 27
+    },
+    {
+      "country_code": "CHN",
+      "country_name": "China",
+      "month": "2026-07",
+      "value": 23.82,
+      "peak": 233.5,
+      "stations": 2,
+      "days_reported": 31,
+      "days_above_guideline": 17
+    },
+    {
+      "country_code": "CIV",
+      "country_name": "Ivory Coast",
+      "month": "2026-07",
+      "value": 15.0,
+      "peak": 91.72,
+      "stations": 1,
+      "days_reported": 31,
+      "days_above_guideline": 17
+    },
+    {
+      "country_code": "CMR",
+      "country_name": "Cameroon",
+      "month": "2026-07",
+      "value": 29.24,
+      "peak": 85.8,
+      "stations": 1,
+      "days_reported": 18,
+      "days_above_guideline": 17
+    },
+    {
+      "country_code": "COD",
+      "country_name": "Democratic Republic of the Congo",
+      "month": "2026-07",
+      "value": 91.81,
+      "peak": 220.2,
+      "stations": 1,
+      "days_reported": 14,
+      "days_above_guideline": 14
+    },
+    {
+      "country_code": "CZE",
+      "country_name": "Czechia",
+      "month": "2026-07",
+      "value": 5.7,
+      "peak": 213.1,
+      "stations": 6,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "DEU",
+      "country_name": "Germany",
+      "month": "2026-07",
+      "value": 6.85,
+      "peak": 174.43,
+      "stations": 32,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "ESP",
+      "country_name": "Spain",
+      "month": "2026-07",
+      "value": 10.56,
+      "peak": 336.0,
+      "stations": 18,
+      "days_reported": 31,
+      "days_above_guideline": 4
+    },
+    {
+      "country_code": "EST",
+      "country_name": "Estonia",
+      "month": "2026-07",
+      "value": 4.28,
+      "peak": 44.8,
+      "stations": 1,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "FIN",
+      "country_name": "Finland",
+      "month": "2026-07",
+      "value": 3.5,
+      "peak": 16.21,
+      "stations": 4,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "FLK",
+      "country_name": "Falkland Islands",
+      "month": "2026-07",
+      "value": 0.35,
+      "peak": 3.4,
+      "stations": 1,
+      "days_reported": 2,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "FRA",
+      "country_name": "France",
+      "month": "2026-07",
+      "value": 8.75,
+      "peak": 174.4,
+      "stations": 22,
+      "days_reported": 31,
+      "days_above_guideline": 2
+    },
+    {
+      "country_code": "GBR",
+      "country_name": "United Kingdom",
+      "month": "2026-07",
+      "value": 7.77,
+      "peak": 160.3,
+      "stations": 20,
+      "days_reported": 31,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "GHA",
+      "country_name": "Ghana",
+      "month": "2026-07",
+      "value": 25.09,
+      "peak": 325.8,
+      "stations": 8,
+      "days_reported": 31,
+      "days_above_guideline": 31
+    },
+    {
+      "country_code": "GRC",
+      "country_name": "Greece",
+      "month": "2026-07",
+      "value": 6.9,
+      "peak": 33.2,
+      "stations": 4,
+      "days_reported": 31,
+      "days_above_guideline": 2
+    },
+    {
+      "country_code": "HND",
+      "country_name": "Honduras",
+      "month": "2026-07",
+      "value": 3.23,
+      "peak": 123.0,
+      "stations": 7,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "HRV",
+      "country_name": "Croatia",
+      "month": "2026-07",
+      "value": 9.6,
+      "peak": 27.5,
+      "stations": 1,
+      "days_reported": 31,
+      "days_above_guideline": 5
+    },
+    {
+      "country_code": "HUN",
+      "country_name": "Hungary",
+      "month": "2026-07",
+      "value": 7.84,
+      "peak": 36.0,
+      "stations": 3,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "IDN",
+      "country_name": "Indonesia",
+      "month": "2026-07",
+      "value": 46.92,
+      "peak": 119.6,
+      "stations": 2,
+      "days_reported": 10,
+      "days_above_guideline": 10
+    },
+    {
+      "country_code": "IND",
+      "country_name": "India",
+      "month": "2026-07",
+      "value": 29.58,
+      "peak": 884.0,
+      "stations": 53,
+      "days_reported": 31,
+      "days_above_guideline": 31
+    },
+    {
+      "country_code": "IRL",
+      "country_name": "Ireland",
+      "month": "2026-07",
+      "value": 7.15,
+      "peak": 133.41,
+      "stations": 4,
+      "days_reported": 31,
+      "days_above_guideline": 3
+    },
+    {
+      "country_code": "ISL",
+      "country_name": "Iceland",
+      "month": "2026-07",
+      "value": 4.23,
+      "peak": 39.15,
+      "stations": 1,
+      "days_reported": 31,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "ITA",
+      "country_name": "Italy",
+      "month": "2026-07",
+      "value": 12.97,
+      "peak": 135.0,
+      "stations": 14,
+      "days_reported": 31,
+      "days_above_guideline": 9
+    },
+    {
+      "country_code": "JPN",
+      "country_name": "Japan",
+      "month": "2026-07",
+      "value": 11.13,
+      "peak": 75.0,
+      "stations": 69,
+      "days_reported": 31,
+      "days_above_guideline": 4
+    },
+    {
+      "country_code": "KAZ",
+      "country_name": "Kazakhstan",
+      "month": "2026-07",
+      "value": 14.89,
+      "peak": 148.8,
+      "stations": 11,
+      "days_reported": 31,
+      "days_above_guideline": 11
+    },
+    {
+      "country_code": "KGZ",
+      "country_name": "Kyrgyzstan",
+      "month": "2026-07",
+      "value": 16.27,
+      "peak": 172.51,
+      "stations": 4,
+      "days_reported": 31,
+      "days_above_guideline": 21
+    },
+    {
+      "country_code": "KOR",
+      "country_name": "South Korea",
+      "month": "2026-07",
+      "value": 794.82,
+      "peak": 9999.0,
+      "stations": 42,
+      "days_reported": 31,
+      "days_above_guideline": 31
+    },
+    {
+      "country_code": "LAO",
+      "country_name": "Laos",
+      "month": "2026-07",
+      "value": 4.95,
+      "peak": 120.4,
+      "stations": 11,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "LBN",
+      "country_name": "Lebanon",
+      "month": "2026-07",
+      "value": 21.66,
+      "peak": 39.8,
+      "stations": 2,
+      "days_reported": 31,
+      "days_above_guideline": 27
+    },
+    {
+      "country_code": "LBR",
+      "country_name": "Liberia",
+      "month": "2026-07",
+      "value": 10.05,
+      "peak": 29.4,
+      "stations": 1,
+      "days_reported": 8,
+      "days_above_guideline": 2
+    },
+    {
+      "country_code": "LVA",
+      "country_name": "Latvia",
+      "month": "2026-07",
+      "value": 3.4,
+      "peak": 74.0,
+      "stations": 2,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "MAR",
+      "country_name": "Morocco",
+      "month": "2026-07",
+      "value": 17.66,
+      "peak": 59.7,
+      "stations": 1,
+      "days_reported": 30,
+      "days_above_guideline": 23
+    },
+    {
+      "country_code": "MDA",
+      "country_name": "Moldova",
+      "month": "2026-07",
+      "value": 13.81,
+      "peak": 31.9,
+      "stations": 1,
+      "days_reported": 29,
+      "days_above_guideline": 9
+    },
+    {
+      "country_code": "MEX",
+      "country_name": "Mexico",
+      "month": "2026-07",
+      "value": 19.01,
+      "peak": 138.2,
+      "stations": 5,
+      "days_reported": 31,
+      "days_above_guideline": 27
+    },
+    {
+      "country_code": "MKD",
+      "country_name": "North Macedonia",
+      "month": "2026-07",
+      "value": 10.93,
+      "peak": 27.07,
+      "stations": 1,
+      "days_reported": 31,
+      "days_above_guideline": 2
+    },
+    {
+      "country_code": "MOZ",
+      "country_name": "Mozambique",
+      "month": "2026-07",
+      "value": 41.0,
+      "peak": 419.6,
+      "stations": 1,
+      "days_reported": 24,
+      "days_above_guideline": 24
+    },
+    {
+      "country_code": "MWI",
+      "country_name": "Malawi",
+      "month": "2026-07",
+      "value": 49.38,
+      "peak": 403.7,
+      "stations": 2,
+      "days_reported": 31,
+      "days_above_guideline": 31
+    },
+    {
+      "country_code": "MYS",
+      "country_name": "Malaysia",
+      "month": "2026-07",
+      "value": 14.01,
+      "peak": 46.7,
+      "stations": 2,
+      "days_reported": 31,
+      "days_above_guideline": 8
+    },
+    {
+      "country_code": "NGA",
+      "country_name": "Nigeria",
+      "month": "2026-07",
+      "value": 32.49,
+      "peak": 296.5,
+      "stations": 4,
+      "days_reported": 31,
+      "days_above_guideline": 31
+    },
+    {
+      "country_code": "NLD",
+      "country_name": "Netherlands",
+      "month": "2026-07",
+      "value": 6.64,
+      "peak": 173.0,
+      "stations": 15,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "NOR",
+      "country_name": "Norway",
+      "month": "2026-07",
+      "value": 4.99,
+      "peak": 22.81,
+      "stations": 3,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "NPL",
+      "country_name": "Nepal",
+      "month": "2026-07",
+      "value": 23.66,
+      "peak": 155.1,
+      "stations": 2,
+      "days_reported": 31,
+      "days_above_guideline": 29
+    },
+    {
+      "country_code": "NZL",
+      "country_name": "New Zealand",
+      "month": "2026-07",
+      "value": 15.27,
+      "peak": 257.95,
+      "stations": 2,
+      "days_reported": 31,
+      "days_above_guideline": 17
+    },
+    {
+      "country_code": "PAK",
+      "country_name": "Pakistan",
+      "month": "2026-07",
+      "value": 39.43,
+      "peak": 318.8,
+      "stations": 23,
+      "days_reported": 31,
+      "days_above_guideline": 31
+    },
+    {
+      "country_code": "PHL",
+      "country_name": "Philippines",
+      "month": "2026-07",
+      "value": 16.07,
+      "peak": 196.6,
+      "stations": 6,
+      "days_reported": 31,
+      "days_above_guideline": 17
+    },
+    {
+      "country_code": "POL",
+      "country_name": "Poland",
+      "month": "2026-07",
+      "value": 11.29,
+      "peak": 69.8,
+      "stations": 6,
+      "days_reported": 31,
+      "days_above_guideline": 9
+    },
+    {
+      "country_code": "PRT",
+      "country_name": "Portugal",
+      "month": "2026-07",
+      "value": 10.31,
+      "peak": 104.9,
+      "stations": 3,
+      "days_reported": 31,
+      "days_above_guideline": 6
+    },
+    {
+      "country_code": "PRY",
+      "country_name": "Paraguay",
+      "month": "2026-07",
+      "value": 19.51,
+      "peak": 136.2,
+      "stations": 2,
+      "days_reported": 31,
+      "days_above_guideline": 21
+    },
+    {
+      "country_code": "ROU",
+      "country_name": "Romania",
+      "month": "2026-07",
+      "value": 9.33,
+      "peak": 39.66,
+      "stations": 4,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "SEN",
+      "country_name": "Senegal",
+      "month": "2026-07",
+      "value": 5.98,
+      "peak": 73.3,
+      "stations": 3,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "SRB",
+      "country_name": "Republic of Serbia",
+      "month": "2026-07",
+      "value": 16.83,
+      "peak": 71.2,
+      "stations": 1,
+      "days_reported": 5,
+      "days_above_guideline": 2
+    },
+    {
+      "country_code": "SVK",
+      "country_name": "Slovakia",
+      "month": "2026-07",
+      "value": 9.15,
+      "peak": 36.68,
+      "stations": 4,
+      "days_reported": 31,
+      "days_above_guideline": 3
+    },
+    {
+      "country_code": "SVN",
+      "country_name": "Slovenia",
+      "month": "2026-07",
+      "value": 6.41,
+      "peak": 123.2,
+      "stations": 4,
+      "days_reported": 31,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "SWE",
+      "country_name": "Sweden",
+      "month": "2026-07",
+      "value": 5.51,
+      "peak": 30.8,
+      "stations": 7,
+      "days_reported": 31,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "THA",
+      "country_name": "Thailand",
+      "month": "2026-07",
+      "value": 8.73,
+      "peak": 255.9,
+      "stations": 21,
+      "days_reported": 31,
+      "days_above_guideline": 3
+    },
+    {
+      "country_code": "TJK",
+      "country_name": "Tajikistan",
+      "month": "2026-07",
+      "value": 43.68,
+      "peak": 242.0,
+      "stations": 1,
+      "days_reported": 29,
+      "days_above_guideline": 29
+    },
+    {
+      "country_code": "TUR",
+      "country_name": "Turkey",
+      "month": "2026-07",
+      "value": 21.96,
+      "peak": 32.99,
+      "stations": 1,
+      "days_reported": 31,
+      "days_above_guideline": 31
+    },
+    {
+      "country_code": "TWN",
+      "country_name": "Taiwan",
+      "month": "2026-07",
+      "value": 6.87,
+      "peak": 32.0,
+      "stations": 5,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "UGA",
+      "country_name": "Uganda",
+      "month": "2026-07",
+      "value": 47.31,
+      "peak": 757.4,
+      "stations": 2,
+      "days_reported": 29,
+      "days_above_guideline": 28
+    },
+    {
+      "country_code": "UKR",
+      "country_name": "Ukraine",
+      "month": "2026-07",
+      "value": 10.35,
+      "peak": 119.8,
+      "stations": 3,
+      "days_reported": 31,
+      "days_above_guideline": 8
+    },
+    {
+      "country_code": "USA",
+      "country_name": "United States of America",
+      "month": "2026-07",
+      "value": 11.83,
+      "peak": 797.5,
+      "stations": 276,
+      "days_reported": 31,
+      "days_above_guideline": 4
+    },
+    {
+      "country_code": "ZAF",
+      "country_name": "South Africa",
+      "month": "2026-07",
+      "value": 30.89,
+      "peak": 210.1,
+      "stations": 2,
+      "days_reported": 31,
+      "days_above_guideline": 25
+    },
+    {
+      "country_code": "ARG",
+      "country_name": "Argentina",
+      "month": "2026-08",
+      "value": 7.4,
+      "peak": 85.1,
+      "stations": 5,
+      "days_reported": 31,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "ARM",
+      "country_name": "Armenia",
+      "month": "2026-08",
+      "value": 15.12,
+      "peak": 30.13,
+      "stations": 1,
+      "days_reported": 31,
+      "days_above_guideline": 14
+    },
+    {
+      "country_code": "AUS",
+      "country_name": "Australia",
+      "month": "2026-08",
+      "value": 5.23,
+      "peak": 241.81,
+      "stations": 9,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "AUT",
+      "country_name": "Austria",
+      "month": "2026-08",
+      "value": 8.24,
+      "peak": 43.6,
+      "stations": 8,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "BEL",
+      "country_name": "Belgium",
+      "month": "2026-08",
+      "value": 5.35,
+      "peak": 31.95,
+      "stations": 7,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "BFA",
+      "country_name": "Burkina Faso",
+      "month": "2026-08",
+      "value": 13.57,
+      "peak": 85.85,
+      "stations": 1,
+      "days_reported": 29,
+      "days_above_guideline": 8
+    },
+    {
+      "country_code": "BGR",
+      "country_name": "Bulgaria",
+      "month": "2026-08",
+      "value": 10.49,
+      "peak": 84.3,
+      "stations": 6,
+      "days_reported": 31,
+      "days_above_guideline": 5
+    },
+    {
+      "country_code": "BIH",
+      "country_name": "Bosnia and Herzegovina",
+      "month": "2026-08",
+      "value": 12.05,
+      "peak": 78.4,
+      "stations": 1,
+      "days_reported": 31,
+      "days_above_guideline": 7
+    },
+    {
+      "country_code": "BRA",
+      "country_name": "Brazil",
+      "month": "2026-08",
+      "value": 12.68,
+      "peak": 164.52,
+      "stations": 5,
+      "days_reported": 31,
+      "days_above_guideline": 9
+    },
+    {
+      "country_code": "CAN",
+      "country_name": "Canada",
+      "month": "2026-08",
+      "value": 13.61,
+      "peak": 533.5,
+      "stations": 29,
+      "days_reported": 31,
+      "days_above_guideline": 10
+    },
+    {
+      "country_code": "CHE",
+      "country_name": "Switzerland",
+      "month": "2026-08",
+      "value": 7.42,
+      "peak": 37.0,
+      "stations": 4,
+      "days_reported": 31,
+      "days_above_guideline": 3
+    },
+    {
+      "country_code": "CHL",
+      "country_name": "Chile",
+      "month": "2026-08",
+      "value": 20.64,
+      "peak": 129.1,
+      "stations": 10,
+      "days_reported": 31,
+      "days_above_guideline": 28
+    },
+    {
+      "country_code": "CHN",
+      "country_name": "China",
+      "month": "2026-08",
+      "value": 13.16,
+      "peak": 40.9,
+      "stations": 3,
+      "days_reported": 31,
+      "days_above_guideline": 8
+    },
+    {
+      "country_code": "CIV",
+      "country_name": "Ivory Coast",
+      "month": "2026-08",
+      "value": 13.38,
+      "peak": 43.56,
+      "stations": 1,
+      "days_reported": 30,
+      "days_above_guideline": 9
+    },
+    {
+      "country_code": "CMR",
+      "country_name": "Cameroon",
+      "month": "2026-08",
+      "value": 18.34,
+      "peak": 95.18,
+      "stations": 1,
+      "days_reported": 29,
+      "days_above_guideline": 24
+    },
+    {
+      "country_code": "COD",
+      "country_name": "Democratic Republic of the Congo",
+      "month": "2026-08",
+      "value": 75.5,
+      "peak": 271.3,
+      "stations": 1,
+      "days_reported": 20,
+      "days_above_guideline": 20
+    },
+    {
+      "country_code": "CZE",
+      "country_name": "Czechia",
+      "month": "2026-08",
+      "value": 5.56,
+      "peak": 37.8,
+      "stations": 6,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "DEU",
+      "country_name": "Germany",
+      "month": "2026-08",
+      "value": 6.18,
+      "peak": 278.38,
+      "stations": 33,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "ESP",
+      "country_name": "Spain",
+      "month": "2026-08",
+      "value": 7.8,
+      "peak": 195.0,
+      "stations": 19,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "EST",
+      "country_name": "Estonia",
+      "month": "2026-08",
+      "value": 3.85,
+      "peak": 38.2,
+      "stations": 1,
+      "days_reported": 31,
+      "days_above_guideline": 2
+    },
+    {
+      "country_code": "FIN",
+      "country_name": "Finland",
+      "month": "2026-08",
+      "value": 4.42,
+      "peak": 46.35,
+      "stations": 4,
+      "days_reported": 31,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "FLK",
+      "country_name": "Falkland Islands",
+      "month": "2026-08",
+      "value": 0.64,
+      "peak": 19.1,
+      "stations": 1,
+      "days_reported": 17,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "FRA",
+      "country_name": "France",
+      "month": "2026-08",
+      "value": 6.95,
+      "peak": 84.3,
+      "stations": 22,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "GBR",
+      "country_name": "United Kingdom",
+      "month": "2026-08",
+      "value": 6.31,
+      "peak": 985.0,
+      "stations": 19,
+      "days_reported": 31,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "GHA",
+      "country_name": "Ghana",
+      "month": "2026-08",
+      "value": 24.97,
+      "peak": 254.7,
+      "stations": 8,
+      "days_reported": 31,
+      "days_above_guideline": 31
+    },
+    {
+      "country_code": "GRC",
+      "country_name": "Greece",
+      "month": "2026-08",
+      "value": 15.74,
+      "peak": 347.7,
+      "stations": 4,
+      "days_reported": 31,
+      "days_above_guideline": 9
+    },
+    {
+      "country_code": "HND",
+      "country_name": "Honduras",
+      "month": "2026-08",
+      "value": 4.32,
+      "peak": 142.0,
+      "stations": 6,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "HRV",
+      "country_name": "Croatia",
+      "month": "2026-08",
+      "value": 12.62,
+      "peak": 37.3,
+      "stations": 1,
+      "days_reported": 31,
+      "days_above_guideline": 8
+    },
+    {
+      "country_code": "HUN",
+      "country_name": "Hungary",
+      "month": "2026-08",
+      "value": 8.27,
+      "peak": 60.0,
+      "stations": 3,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "IDN",
+      "country_name": "Indonesia",
+      "month": "2026-08",
+      "value": 52.57,
+      "peak": 233.2,
+      "stations": 2,
+      "days_reported": 31,
+      "days_above_guideline": 31
+    },
+    {
+      "country_code": "IND",
+      "country_name": "India",
+      "month": "2026-08",
+      "value": 27.27,
+      "peak": 765.31,
+      "stations": 50,
+      "days_reported": 31,
+      "days_above_guideline": 31
+    },
+    {
+      "country_code": "IRL",
+      "country_name": "Ireland",
+      "month": "2026-08",
+      "value": 5.18,
+      "peak": 298.19,
+      "stations": 4,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "ISL",
+      "country_name": "Iceland",
+      "month": "2026-08",
+      "value": 2.56,
+      "peak": 27.05,
+      "stations": 1,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "ITA",
+      "country_name": "Italy",
+      "month": "2026-08",
+      "value": 14.18,
+      "peak": 82.27,
+      "stations": 14,
+      "days_reported": 31,
+      "days_above_guideline": 13
+    },
+    {
+      "country_code": "JPN",
+      "country_name": "Japan",
+      "month": "2026-08",
+      "value": 7.96,
+      "peak": 154.0,
+      "stations": 69,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "KAZ",
+      "country_name": "Kazakhstan",
+      "month": "2026-08",
+      "value": 14.35,
+      "peak": 197.5,
+      "stations": 11,
+      "days_reported": 31,
+      "days_above_guideline": 13
+    },
+    {
+      "country_code": "KGZ",
+      "country_name": "Kyrgyzstan",
+      "month": "2026-08",
+      "value": 17.44,
+      "peak": 383.6,
+      "stations": 3,
+      "days_reported": 31,
+      "days_above_guideline": 24
+    },
+    {
+      "country_code": "KOR",
+      "country_name": "South Korea",
+      "month": "2026-08",
+      "value": 518.87,
+      "peak": 9999.0,
+      "stations": 42,
+      "days_reported": 31,
+      "days_above_guideline": 31
+    },
+    {
+      "country_code": "LAO",
+      "country_name": "Laos",
+      "month": "2026-08",
+      "value": 5.45,
+      "peak": 490.8,
+      "stations": 10,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "LBN",
+      "country_name": "Lebanon",
+      "month": "2026-08",
+      "value": 25.81,
+      "peak": 48.1,
+      "stations": 3,
+      "days_reported": 31,
+      "days_above_guideline": 29
+    },
+    {
+      "country_code": "LBR",
+      "country_name": "Liberia",
+      "month": "2026-08",
+      "value": 4.3,
+      "peak": 4.3,
+      "stations": 1,
+      "days_reported": 1,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "LVA",
+      "country_name": "Latvia",
+      "month": "2026-08",
+      "value": 3.81,
+      "peak": 43.0,
+      "stations": 2,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "MAR",
+      "country_name": "Morocco",
+      "month": "2026-08",
+      "value": 12.24,
+      "peak": 37.2,
+      "stations": 1,
+      "days_reported": 24,
+      "days_above_guideline": 6
+    },
+    {
+      "country_code": "MDA",
+      "country_name": "Moldova",
+      "month": "2026-08",
+      "value": 17.63,
+      "peak": 37.8,
+      "stations": 1,
+      "days_reported": 31,
+      "days_above_guideline": 16
+    },
+    {
+      "country_code": "MEX",
+      "country_name": "Mexico",
+      "month": "2026-08",
+      "value": 15.88,
+      "peak": 138.19,
+      "stations": 5,
+      "days_reported": 31,
+      "days_above_guideline": 17
+    },
+    {
+      "country_code": "MKD",
+      "country_name": "North Macedonia",
+      "month": "2026-08",
+      "value": 15.43,
+      "peak": 31.98,
+      "stations": 1,
+      "days_reported": 31,
+      "days_above_guideline": 13
+    },
+    {
+      "country_code": "MOZ",
+      "country_name": "Mozambique",
+      "month": "2026-08",
+      "value": 25.26,
+      "peak": 138.7,
+      "stations": 1,
+      "days_reported": 24,
+      "days_above_guideline": 20
+    },
+    {
+      "country_code": "MWI",
+      "country_name": "Malawi",
+      "month": "2026-08",
+      "value": 53.85,
+      "peak": 824.5,
+      "stations": 2,
+      "days_reported": 31,
+      "days_above_guideline": 31
+    },
+    {
+      "country_code": "MYS",
+      "country_name": "Malaysia",
+      "month": "2026-08",
+      "value": 30.98,
+      "peak": 110.4,
+      "stations": 3,
+      "days_reported": 31,
+      "days_above_guideline": 24
+    },
+    {
+      "country_code": "NGA",
+      "country_name": "Nigeria",
+      "month": "2026-08",
+      "value": 30.89,
+      "peak": 301.3,
+      "stations": 3,
+      "days_reported": 31,
+      "days_above_guideline": 31
+    },
+    {
+      "country_code": "NLD",
+      "country_name": "Netherlands",
+      "month": "2026-08",
+      "value": 5.89,
+      "peak": 92.6,
+      "stations": 17,
+      "days_reported": 31,
+      "days_above_guideline": 2
+    },
+    {
+      "country_code": "NOR",
+      "country_name": "Norway",
+      "month": "2026-08",
+      "value": 3.47,
+      "peak": 19.7,
+      "stations": 3,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "NPL",
+      "country_name": "Nepal",
+      "month": "2026-08",
+      "value": 24.17,
+      "peak": 151.9,
+      "stations": 2,
+      "days_reported": 31,
+      "days_above_guideline": 30
+    },
+    {
+      "country_code": "NZL",
+      "country_name": "New Zealand",
+      "month": "2026-08",
+      "value": 9.26,
+      "peak": 126.96,
+      "stations": 2,
+      "days_reported": 31,
+      "days_above_guideline": 6
+    },
+    {
+      "country_code": "PAK",
+      "country_name": "Pakistan",
+      "month": "2026-08",
+      "value": 39.47,
+      "peak": 252.4,
+      "stations": 24,
+      "days_reported": 31,
+      "days_above_guideline": 31
+    },
+    {
+      "country_code": "PHL",
+      "country_name": "Philippines",
+      "month": "2026-08",
+      "value": 19.55,
+      "peak": 220.7,
+      "stations": 6,
+      "days_reported": 31,
+      "days_above_guideline": 16
+    },
+    {
+      "country_code": "POL",
+      "country_name": "Poland",
+      "month": "2026-08",
+      "value": 11.85,
+      "peak": 88.5,
+      "stations": 6,
+      "days_reported": 31,
+      "days_above_guideline": 6
+    },
+    {
+      "country_code": "PRT",
+      "country_name": "Portugal",
+      "month": "2026-08",
+      "value": 8.19,
+      "peak": 117.68,
+      "stations": 3,
+      "days_reported": 31,
+      "days_above_guideline": 6
+    },
+    {
+      "country_code": "PRY",
+      "country_name": "Paraguay",
+      "month": "2026-08",
+      "value": 11.85,
+      "peak": 88.1,
+      "stations": 2,
+      "days_reported": 31,
+      "days_above_guideline": 11
+    },
+    {
+      "country_code": "ROU",
+      "country_name": "Romania",
+      "month": "2026-08",
+      "value": 11.45,
+      "peak": 65.95,
+      "stations": 4,
+      "days_reported": 31,
+      "days_above_guideline": 3
+    },
+    {
+      "country_code": "SEN",
+      "country_name": "Senegal",
+      "month": "2026-08",
+      "value": 4.34,
+      "peak": 44.8,
+      "stations": 2,
+      "days_reported": 31,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "SRB",
+      "country_name": "Republic of Serbia",
+      "month": "2026-08",
+      "value": 18.58,
+      "peak": 107.4,
+      "stations": 1,
+      "days_reported": 24,
+      "days_above_guideline": 15
+    },
+    {
+      "country_code": "SVK",
+      "country_name": "Slovakia",
+      "month": "2026-08",
+      "value": 11.23,
+      "peak": 74.68,
+      "stations": 4,
+      "days_reported": 31,
+      "days_above_guideline": 9
+    },
+    {
+      "country_code": "SVN",
+      "country_name": "Slovenia",
+      "month": "2026-08",
+      "value": 7.54,
+      "peak": 388.0,
+      "stations": 4,
+      "days_reported": 31,
+      "days_above_guideline": 2
+    },
+    {
+      "country_code": "SWE",
+      "country_name": "Sweden",
+      "month": "2026-08",
+      "value": 4.79,
+      "peak": 32.4,
+      "stations": 7,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "THA",
+      "country_name": "Thailand",
+      "month": "2026-08",
+      "value": 9.3,
+      "peak": 330.6,
+      "stations": 20,
+      "days_reported": 31,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "TJK",
+      "country_name": "Tajikistan",
+      "month": "2026-08",
+      "value": 47.35,
+      "peak": 191.0,
+      "stations": 1,
+      "days_reported": 31,
+      "days_above_guideline": 31
+    },
+    {
+      "country_code": "TUR",
+      "country_name": "Turkey",
+      "month": "2026-08",
+      "value": 23.96,
+      "peak": 34.8,
+      "stations": 1,
+      "days_reported": 31,
+      "days_above_guideline": 31
+    },
+    {
+      "country_code": "TWN",
+      "country_name": "Taiwan",
+      "month": "2026-08",
+      "value": 7.39,
+      "peak": 31.0,
+      "stations": 5,
+      "days_reported": 31,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "UGA",
+      "country_name": "Uganda",
+      "month": "2026-08",
+      "value": 47.05,
+      "peak": 180.4,
+      "stations": 2,
+      "days_reported": 31,
+      "days_above_guideline": 30
+    },
+    {
+      "country_code": "UKR",
+      "country_name": "Ukraine",
+      "month": "2026-08",
+      "value": 13.99,
+      "peak": 114.3,
+      "stations": 3,
+      "days_reported": 31,
+      "days_above_guideline": 12
+    },
+    {
+      "country_code": "USA",
+      "country_name": "United States of America",
+      "month": "2026-08",
+      "value": 9.59,
+      "peak": 641.2,
+      "stations": 295,
+      "days_reported": 31,
+      "days_above_guideline": 3
+    },
+    {
+      "country_code": "ZAF",
+      "country_name": "South Africa",
+      "month": "2026-08",
+      "value": 19.14,
+      "peak": 672.37,
+      "stations": 8,
+      "days_reported": 31,
+      "days_above_guideline": 24
+    },
+    {
+      "country_code": "ARG",
+      "country_name": "Argentina",
+      "month": "2026-09",
+      "value": 5.04,
+      "peak": 53.8,
+      "stations": 4,
+      "days_reported": 16,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "ARM",
+      "country_name": "Armenia",
+      "month": "2026-09",
+      "value": 12.08,
+      "peak": 38.14,
+      "stations": 1,
+      "days_reported": 14,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "AUS",
+      "country_name": "Australia",
+      "month": "2026-09",
+      "value": 4.39,
+      "peak": 89.4,
+      "stations": 9,
+      "days_reported": 16,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "AUT",
+      "country_name": "Austria",
+      "month": "2026-09",
+      "value": 5.08,
+      "peak": 33.7,
+      "stations": 8,
+      "days_reported": 15,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "BEL",
+      "country_name": "Belgium",
+      "month": "2026-09",
+      "value": 3.82,
+      "peak": 16.84,
+      "stations": 7,
+      "days_reported": 15,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "BFA",
+      "country_name": "Burkina Faso",
+      "month": "2026-09",
+      "value": 13.67,
+      "peak": 63.16,
+      "stations": 1,
+      "days_reported": 16,
+      "days_above_guideline": 5
+    },
+    {
+      "country_code": "BGR",
+      "country_name": "Bulgaria",
+      "month": "2026-09",
+      "value": 6.9,
+      "peak": 53.3,
+      "stations": 6,
+      "days_reported": 15,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "BIH",
+      "country_name": "Bosnia and Herzegovina",
+      "month": "2026-09",
+      "value": 11.58,
+      "peak": 14.4,
+      "stations": 1,
+      "days_reported": 1,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "BRA",
+      "country_name": "Brazil",
+      "month": "2026-09",
+      "value": 6.18,
+      "peak": 33.63,
+      "stations": 4,
+      "days_reported": 16,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "BRN",
+      "country_name": "Brunei",
+      "month": "2026-09",
+      "value": 22.01,
+      "peak": 91.0,
+      "stations": 1,
+      "days_reported": 6,
+      "days_above_guideline": 5
+    },
+    {
+      "country_code": "CAN",
+      "country_name": "Canada",
+      "month": "2026-09",
+      "value": 4.88,
+      "peak": 107.1,
+      "stations": 29,
+      "days_reported": 16,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "CHE",
+      "country_name": "Switzerland",
+      "month": "2026-09",
+      "value": 3.4,
+      "peak": 30.0,
+      "stations": 5,
+      "days_reported": 15,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "CHL",
+      "country_name": "Chile",
+      "month": "2026-09",
+      "value": 17.9,
+      "peak": 47.0,
+      "stations": 10,
+      "days_reported": 16,
+      "days_above_guideline": 16
+    },
+    {
+      "country_code": "CHN",
+      "country_name": "China",
+      "month": "2026-09",
+      "value": 12.15,
+      "peak": 444.3,
+      "stations": 2,
+      "days_reported": 16,
+      "days_above_guideline": 2
+    },
+    {
+      "country_code": "CIV",
+      "country_name": "Ivory Coast",
+      "month": "2026-09",
+      "value": 14.05,
+      "peak": 64.38,
+      "stations": 1,
+      "days_reported": 14,
+      "days_above_guideline": 4
+    },
+    {
+      "country_code": "CMR",
+      "country_name": "Cameroon",
+      "month": "2026-09",
+      "value": 17.58,
+      "peak": 83.92,
+      "stations": 1,
+      "days_reported": 14,
+      "days_above_guideline": 11
+    },
+    {
+      "country_code": "COD",
+      "country_name": "Democratic Republic of the Congo",
+      "month": "2026-09",
+      "value": 87.9,
+      "peak": 358.6,
+      "stations": 1,
+      "days_reported": 6,
+      "days_above_guideline": 6
+    },
+    {
+      "country_code": "CZE",
+      "country_name": "Czechia",
+      "month": "2026-09",
+      "value": 3.55,
+      "peak": 29.9,
+      "stations": 6,
+      "days_reported": 15,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "DEU",
+      "country_name": "Germany",
+      "month": "2026-09",
+      "value": 4.55,
+      "peak": 39.0,
+      "stations": 33,
+      "days_reported": 15,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "ESP",
+      "country_name": "Spain",
+      "month": "2026-09",
+      "value": 7.98,
+      "peak": 155.8,
+      "stations": 19,
+      "days_reported": 15,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "EST",
+      "country_name": "Estonia",
+      "month": "2026-09",
+      "value": 1.47,
+      "peak": 13.0,
+      "stations": 1,
+      "days_reported": 15,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "FIN",
+      "country_name": "Finland",
+      "month": "2026-09",
+      "value": 2.35,
+      "peak": 11.14,
+      "stations": 4,
+      "days_reported": 15,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "FLK",
+      "country_name": "Falkland Islands",
+      "month": "2026-09",
+      "value": 0.01,
+      "peak": 0.2,
+      "stations": 1,
+      "days_reported": 2,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "FRA",
+      "country_name": "France",
+      "month": "2026-09",
+      "value": 4.58,
+      "peak": 486.5,
+      "stations": 22,
+      "days_reported": 15,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "GBR",
+      "country_name": "United Kingdom",
+      "month": "2026-09",
+      "value": 3.99,
+      "peak": 25.5,
+      "stations": 14,
+      "days_reported": 14,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "GHA",
+      "country_name": "Ghana",
+      "month": "2026-09",
+      "value": 16.92,
+      "peak": 246.2,
+      "stations": 8,
+      "days_reported": 16,
+      "days_above_guideline": 14
+    },
+    {
+      "country_code": "GRC",
+      "country_name": "Greece",
+      "month": "2026-09",
+      "value": 6.41,
+      "peak": 20.0,
+      "stations": 4,
+      "days_reported": 15,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "HND",
+      "country_name": "Honduras",
+      "month": "2026-09",
+      "value": 5.24,
+      "peak": 253.3,
+      "stations": 5,
+      "days_reported": 16,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "HRV",
+      "country_name": "Croatia",
+      "month": "2026-09",
+      "value": 9.22,
+      "peak": 24.3,
+      "stations": 1,
+      "days_reported": 13,
+      "days_above_guideline": 2
+    },
+    {
+      "country_code": "HUN",
+      "country_name": "Hungary",
+      "month": "2026-09",
+      "value": 7.27,
+      "peak": 35.0,
+      "stations": 3,
+      "days_reported": 15,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "IDN",
+      "country_name": "Indonesia",
+      "month": "2026-09",
+      "value": 41.31,
+      "peak": 157.0,
+      "stations": 3,
+      "days_reported": 16,
+      "days_above_guideline": 16
+    },
+    {
+      "country_code": "IND",
+      "country_name": "India",
+      "month": "2026-09",
+      "value": 27.41,
+      "peak": 365.9,
+      "stations": 50,
+      "days_reported": 16,
+      "days_above_guideline": 16
+    },
+    {
+      "country_code": "IRL",
+      "country_name": "Ireland",
+      "month": "2026-09",
+      "value": 4.37,
+      "peak": 39.02,
+      "stations": 4,
+      "days_reported": 14,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "ISL",
+      "country_name": "Iceland",
+      "month": "2026-09",
+      "value": 2.68,
+      "peak": 48.21,
+      "stations": 1,
+      "days_reported": 16,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "ITA",
+      "country_name": "Italy",
+      "month": "2026-09",
+      "value": 11.9,
+      "peak": 56.13,
+      "stations": 14,
+      "days_reported": 15,
+      "days_above_guideline": 2
+    },
+    {
+      "country_code": "JPN",
+      "country_name": "Japan",
+      "month": "2026-09",
+      "value": 5.69,
+      "peak": 567.0,
+      "stations": 68,
+      "days_reported": 16,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "KAZ",
+      "country_name": "Kazakhstan",
+      "month": "2026-09",
+      "value": 19.21,
+      "peak": 253.5,
+      "stations": 11,
+      "days_reported": 16,
+      "days_above_guideline": 12
+    },
+    {
+      "country_code": "KGZ",
+      "country_name": "Kyrgyzstan",
+      "month": "2026-09",
+      "value": 18.14,
+      "peak": 135.54,
+      "stations": 3,
+      "days_reported": 16,
+      "days_above_guideline": 15
+    },
+    {
+      "country_code": "KOR",
+      "country_name": "South Korea",
+      "month": "2026-09",
+      "value": 640.29,
+      "peak": 9999.0,
+      "stations": 42,
+      "days_reported": 16,
+      "days_above_guideline": 16
+    },
+    {
+      "country_code": "LAO",
+      "country_name": "Laos",
+      "month": "2026-09",
+      "value": 11.87,
+      "peak": 353.7,
+      "stations": 12,
+      "days_reported": 16,
+      "days_above_guideline": 3
+    },
+    {
+      "country_code": "LBN",
+      "country_name": "Lebanon",
+      "month": "2026-09",
+      "value": 19.18,
+      "peak": 39.7,
+      "stations": 3,
+      "days_reported": 15,
+      "days_above_guideline": 13
+    },
+    {
+      "country_code": "LBR",
+      "country_name": "Liberia",
+      "month": "2026-09",
+      "value": 7.96,
+      "peak": 34.0,
+      "stations": 1,
+      "days_reported": 10,
+      "days_above_guideline": 2
+    },
+    {
+      "country_code": "LVA",
+      "country_name": "Latvia",
+      "month": "2026-09",
+      "value": 2.48,
+      "peak": 16.0,
+      "stations": 2,
+      "days_reported": 15,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "MAR",
+      "country_name": "Morocco",
+      "month": "2026-09",
+      "value": 15.0,
+      "peak": 39.0,
+      "stations": 1,
+      "days_reported": 13,
+      "days_above_guideline": 6
+    },
+    {
+      "country_code": "MDA",
+      "country_name": "Moldova",
+      "month": "2026-09",
+      "value": 12.43,
+      "peak": 38.9,
+      "stations": 1,
+      "days_reported": 15,
+      "days_above_guideline": 5
+    },
+    {
+      "country_code": "MEX",
+      "country_name": "Mexico",
+      "month": "2026-09",
+      "value": 16.63,
+      "peak": 165.66,
+      "stations": 4,
+      "days_reported": 16,
+      "days_above_guideline": 10
+    },
+    {
+      "country_code": "MKD",
+      "country_name": "North Macedonia",
+      "month": "2026-09",
+      "value": 14.94,
+      "peak": 49.09,
+      "stations": 1,
+      "days_reported": 15,
+      "days_above_guideline": 5
+    },
+    {
+      "country_code": "MOZ",
+      "country_name": "Mozambique",
+      "month": "2026-09",
+      "value": 21.88,
+      "peak": 322.6,
+      "stations": 1,
+      "days_reported": 7,
+      "days_above_guideline": 4
+    },
+    {
+      "country_code": "MWI",
+      "country_name": "Malawi",
+      "month": "2026-09",
+      "value": 62.92,
+      "peak": 354.8,
+      "stations": 2,
+      "days_reported": 15,
+      "days_above_guideline": 15
+    },
+    {
+      "country_code": "MYS",
+      "country_name": "Malaysia",
+      "month": "2026-09",
+      "value": 42.98,
+      "peak": 138.0,
+      "stations": 3,
+      "days_reported": 16,
+      "days_above_guideline": 16
+    },
+    {
+      "country_code": "NGA",
+      "country_name": "Nigeria",
+      "month": "2026-09",
+      "value": 25.29,
+      "peak": 311.3,
+      "stations": 4,
+      "days_reported": 14,
+      "days_above_guideline": 13
+    },
+    {
+      "country_code": "NLD",
+      "country_name": "Netherlands",
+      "month": "2026-09",
+      "value": 4.02,
+      "peak": 33.7,
+      "stations": 16,
+      "days_reported": 15,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "NOR",
+      "country_name": "Norway",
+      "month": "2026-09",
+      "value": 4.11,
+      "peak": 16.65,
+      "stations": 3,
+      "days_reported": 14,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "NPL",
+      "country_name": "Nepal",
+      "month": "2026-09",
+      "value": 27.49,
+      "peak": 322.1,
+      "stations": 2,
+      "days_reported": 15,
+      "days_above_guideline": 12
+    },
+    {
+      "country_code": "NZL",
+      "country_name": "New Zealand",
+      "month": "2026-09",
+      "value": 5.64,
+      "peak": 81.06,
+      "stations": 2,
+      "days_reported": 16,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "PAK",
+      "country_name": "Pakistan",
+      "month": "2026-09",
+      "value": 45.69,
+      "peak": 365.0,
+      "stations": 24,
+      "days_reported": 16,
+      "days_above_guideline": 16
+    },
+    {
+      "country_code": "PHL",
+      "country_name": "Philippines",
+      "month": "2026-09",
+      "value": 18.15,
+      "peak": 90.3,
+      "stations": 7,
+      "days_reported": 16,
+      "days_above_guideline": 10
+    },
+    {
+      "country_code": "POL",
+      "country_name": "Poland",
+      "month": "2026-09",
+      "value": 10.66,
+      "peak": 63.6,
+      "stations": 6,
+      "days_reported": 15,
+      "days_above_guideline": 3
+    },
+    {
+      "country_code": "PRT",
+      "country_name": "Portugal",
+      "month": "2026-09",
+      "value": 8.85,
+      "peak": 62.22,
+      "stations": 3,
+      "days_reported": 14,
+      "days_above_guideline": 2
+    },
+    {
+      "country_code": "PRY",
+      "country_name": "Paraguay",
+      "month": "2026-09",
+      "value": 13.65,
+      "peak": 155.6,
+      "stations": 2,
+      "days_reported": 16,
+      "days_above_guideline": 7
+    },
+    {
+      "country_code": "ROU",
+      "country_name": "Romania",
+      "month": "2026-09",
+      "value": 8.47,
+      "peak": 58.24,
+      "stations": 4,
+      "days_reported": 15,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "SEN",
+      "country_name": "Senegal",
+      "month": "2026-09",
+      "value": 8.03,
+      "peak": 163.0,
+      "stations": 2,
+      "days_reported": 16,
+      "days_above_guideline": 3
+    },
+    {
+      "country_code": "SRB",
+      "country_name": "Republic of Serbia",
+      "month": "2026-09",
+      "value": 18.67,
+      "peak": 123.3,
+      "stations": 1,
+      "days_reported": 15,
+      "days_above_guideline": 9
+    },
+    {
+      "country_code": "SVK",
+      "country_name": "Slovakia",
+      "month": "2026-09",
+      "value": 6.39,
+      "peak": 22.61,
+      "stations": 4,
+      "days_reported": 14,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "SVN",
+      "country_name": "Slovenia",
+      "month": "2026-09",
+      "value": 3.91,
+      "peak": 127.4,
+      "stations": 4,
+      "days_reported": 15,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "SWE",
+      "country_name": "Sweden",
+      "month": "2026-09",
+      "value": 4.44,
+      "peak": 29.7,
+      "stations": 7,
+      "days_reported": 15,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "THA",
+      "country_name": "Thailand",
+      "month": "2026-09",
+      "value": 13.61,
+      "peak": 77.3,
+      "stations": 18,
+      "days_reported": 16,
+      "days_above_guideline": 4
+    },
+    {
+      "country_code": "TJK",
+      "country_name": "Tajikistan",
+      "month": "2026-09",
+      "value": 48.53,
+      "peak": 118.0,
+      "stations": 1,
+      "days_reported": 15,
+      "days_above_guideline": 15
+    },
+    {
+      "country_code": "TTO",
+      "country_name": "Trinidad and Tobago",
+      "month": "2026-09",
+      "value": 8.27,
+      "peak": 117.4,
+      "stations": 1,
+      "days_reported": 5,
+      "days_above_guideline": 1
+    },
+    {
+      "country_code": "TUR",
+      "country_name": "Turkey",
+      "month": "2026-09",
+      "value": 20.86,
+      "peak": 32.34,
+      "stations": 1,
+      "days_reported": 15,
+      "days_above_guideline": 15
+    },
+    {
+      "country_code": "TWN",
+      "country_name": "Taiwan",
+      "month": "2026-09",
+      "value": 7.46,
+      "peak": 31.0,
+      "stations": 5,
+      "days_reported": 16,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "UGA",
+      "country_name": "Uganda",
+      "month": "2026-09",
+      "value": 35.37,
+      "peak": 114.64,
+      "stations": 1,
+      "days_reported": 14,
+      "days_above_guideline": 14
+    },
+    {
+      "country_code": "UKR",
+      "country_name": "Ukraine",
+      "month": "2026-09",
+      "value": 10.45,
+      "peak": 67.0,
+      "stations": 3,
+      "days_reported": 15,
+      "days_above_guideline": 4
+    },
+    {
+      "country_code": "USA",
+      "country_name": "United States of America",
+      "month": "2026-09",
+      "value": 5.87,
+      "peak": 923.23,
+      "stations": 279,
+      "days_reported": 16,
+      "days_above_guideline": 0
+    },
+    {
+      "country_code": "ZAF",
+      "country_name": "South Africa",
+      "month": "2026-09",
+      "value": 18.63,
+      "peak": 191.0,
+      "stations": 8,
+      "days_reported": 15,
+      "days_above_guideline": 9
+    }
+  ]
+}

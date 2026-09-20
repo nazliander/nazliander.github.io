@@ -1,0 +1,12 @@
+{
+  "pipeline": "air quality warehouse",
+  "state": "ok",
+  "tests": "ok",
+  "test_warnings": 3,
+  "freshness": "fresh",
+  "last_run": "2026-09-19T19:40:43+00:00",
+  "latest_day": "2026-09-16",
+  "countries": 77,
+  "readings": 4797259,
+  "parameter": "pm25"
+}
