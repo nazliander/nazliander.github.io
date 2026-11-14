@@ -24,16 +24,16 @@
 <span class="line"><span style="color:#9ECBFF">    "tracer_provider"</span><span style="color:#E1E4E8">: provider,</span></span>
 <span class="line"><span style="color:#9ECBFF">    "traces"</span><span style="color:#E1E4E8">: {</span><span style="color:#9ECBFF">"enabled"</span><span style="color:#E1E4E8">: </span><span style="color:#79B8FF">True</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"content_mode"</span><span style="color:#E1E4E8">: </span><span style="color:#9ECBFF">"content"</span><span style="color:#E1E4E8">},</span></span>
 <span class="line"><span style="color:#E1E4E8">})</span></span></code></pre>
-<p>Logfire prices each call in the SDK and records prompts by default. Langfuse prices each call on the server from its own model table, splits tokens into input, output, cache and reasoning, and records prompts only after you ask for <code>content</code>.</p>
+<p>Logfire prices each call in the SDK and records prompts by default. Langfuse prices each call on the server from its own model table, and splits tokens into input, output, cache and reasoning. The Anthropic SDK’s own spans carry only metadata until you set <code>content_mode</code> to <code>content</code>, so Langfuse sees no prompts before that.</p>
 <h2 id="as-an-annotator">As an annotator</h2>
 <p>This is where they differ most.</p>
 <ul>
-<li><strong>Langfuse</strong> gives you human annotation in the UI. I made a <code>true_category</code> score, queued 13 traces, and labeled them by hand after the run, without code. Many teams now skip the human step and let a classifier or an LLM-as-a-judge do the grading. Langfuse <a href="https://langfuse.com/docs/evaluation/overview">supports that too</a>, with evaluators that score live traces and scores you send from code.</li>
-<li><strong>Logfire</strong> builds annotation around agents and online evaluation. You open an agent’s runs and give each one a pass, neutral or fail verdict. A custom label like <code>true_category</code> comes from code, with <code>record_feedback</code>.</li>
+<li><strong>Langfuse</strong> gives you human annotation in the UI. I made a <code>true_category</code> score, queued 13 traces, and labeled them by hand after the run, without code. You may also skip the human step and let a classifier or an LLM-as-a-judge do the grading. Langfuse <a href="https://langfuse.com/docs/evaluation/overview">supports that too</a>, with evaluators that score live traces and scores you send from code.</li>
+<li><strong>Logfire</strong> keeps human review for agent runs. You open a run from the Agents page and give it a pass, neutral or fail verdict, with tags and an optional category. The feature is in beta, and <a href="https://pydantic.dev/docs/logfire/evaluate/human-review/">annotation queues</a> are early access. Other spans get labels from code.</li>
 </ul>
 <p><img src="/writing/langfuse-vs-logfire/langfuse-queue-completed.png" alt="A Langfuse annotation queue with 13 labeled traces and the true_category score">
 <em>Langfuse: the annotation queue after I labeled all 13 traces by hand.</em></p>
-<p>The labels told the story. At a confidence threshold of 0.5, the router got 11 of 13 right. Both mistakes came from the cheap model, sure and wrong. At 0.7, it got 12 of 13.</p>
+<p>The labels told the story. At a confidence threshold of 0.5, the router got 11 of 13 right. Both mistakes came from the cheap model: it was above the threshold, so it skipped the LLM, and it was wrong. At 0.7, it got 12 of 13.</p>
 <table>
 <thead>
 <tr>
@@ -58,11 +58,11 @@
 </tr>
 </tbody>
 </table>
-<p>One more right answer cost three times the LLM calls. That trade-off is why you label at all. Thirteen tickets are far too few to tune on, but enough to see the pattern.</p>
-<p><em>A side note on my router:</em> it is a pipeline, not an agent, so Logfire’s annotation page stayed empty. I copied my Langfuse labels over with <code>record_feedback</code>. They land as <code>annotation</code> records, which only SQL shows:</p>
+<p>One more right answer cost three times the LLM calls. (The 0.5 run also had one injected LLM timeout, which I left out of the count.) That trade-off is why you label at all. Thirteen tickets are far too few to tune on, but enough to see the pattern.</p>
+<p><em>A side note on my router:</em> it is a pipeline, not an agent, so Logfire’s annotation page stayed empty. I copied my Langfuse labels over with <code>record_feedback</code>, from <code>logfire.experimental</code>. They land as <code>annotation</code> records, and I found them only with SQL:</p>
 <p><img src="/writing/langfuse-vs-logfire/logfire-annotations-sql.png" alt="The Logfire SQL Workbench, listing the true_category labels next to their trace IDs">
 <em>Logfire: the copied labels, found with SQL in the SQL Workbench.</em></p>
-<p>To label a pipeline by hand in Logfire, you build a bit more yourself: a review page that reads the traces with the query API and sends each grade back with <code>record_feedback</code>. That is not too bad. Human review for pipelines is just not built in.</p>
+<p>To label a pipeline by hand in Logfire, you build a bit more yourself: a review page that reads the traces with the query API and sends each grade back from code. For end-user feedback, the docs use a <a href="https://pydantic.dev/docs/logfire/evaluate/live-evals/#record-end-user-feedback"><code>gen_ai.evaluation.result</code> event</a>, which Live Evaluations reads. The same event would fit a reviewer’s grade. That is not too bad. Human review for pipelines is just not built in.</p>
 <h2 id="after-the-logs-arrive">After the logs arrive</h2>
 <p>Here they’re close.</p>
 <table>
@@ -86,8 +86,8 @@
 </tr>
 <tr>
 <td>Failed traces</td>
-<td>stand out, no filter</td>
-<td>stand out, no filter</td>
+<td>marked as errors, no extra code</td>
+<td>marked as errors, no extra code</td>
 </tr>
 <tr>
 <td>Labels</td>
@@ -101,7 +101,7 @@
 </tr>
 <tr>
 <td>Querying</td>
-<td>metrics API</td>
+<td>REST API for observations and metrics, no SQL</td>
 <td>SQL, in the UI and the API</td>
 </tr>
 </tbody>
