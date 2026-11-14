@@ -62,7 +62,7 @@
 <p><em>A side note on my router:</em> it is a pipeline, not an agent, so Logfire’s annotation page stayed empty. I copied my Langfuse labels over with <code>record_feedback</code>. They land as <code>annotation</code> records, which only SQL shows:</p>
 <p><img src="/writing/langfuse-vs-logfire/logfire-annotations-sql.png" alt="The Logfire SQL Workbench, listing the true_category labels next to their trace IDs">
 <em>Logfire: the copied labels, found with SQL in the SQL Workbench.</em></p>
-<p>To label a pipeline by hand in Logfire, you build the small review page yourself.</p>
+<p>To label a pipeline by hand in Logfire, you build a bit more yourself: a review page that reads the traces with the query API and sends each grade back with <code>record_feedback</code>. That is not too bad. Human review for pipelines is just not built in.</p>
 <h2 id="after-the-logs-arrive">After the logs arrive</h2>
 <p>Here they’re close.</p>
 <table>
