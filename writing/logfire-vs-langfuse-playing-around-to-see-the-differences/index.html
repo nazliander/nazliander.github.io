@@ -28,7 +28,7 @@
 <h2 id="as-an-annotator">As an annotator</h2>
 <p>This is where they differ most.</p>
 <ul>
-<li><strong>Langfuse</strong> gives you human annotation in the UI. I made a <code>true_category</code> score, queued 13 traces, and labeled them by hand after the run, without code.</li>
+<li><strong>Langfuse</strong> gives you human annotation in the UI. I made a <code>true_category</code> score, queued 13 traces, and labeled them by hand after the run, without code. Many teams now skip the human step and let a classifier or an LLM-as-a-judge do the grading. Langfuse <a href="https://langfuse.com/docs/evaluation/overview">supports that too</a>, with evaluators that score live traces and scores you send from code.</li>
 <li><strong>Logfire</strong> builds annotation around agents and online evaluation. You open an agent’s runs and give each one a pass, neutral or fail verdict. A custom label like <code>true_category</code> comes from code, with <code>record_feedback</code>.</li>
 </ul>
 <p><img src="/writing/langfuse-vs-logfire/langfuse-queue-completed.png" alt="A Langfuse annotation queue with 13 labeled traces and the true_category score">
@@ -152,4 +152,5 @@
 <span class="line"><span style="color:#E1E4E8">agent.run_sync(</span><span style="color:#9ECBFF">"I was charged twice"</span><span style="color:#E1E4E8">)</span></span>
 <span class="line"><span style="color:#E1E4E8">langfuse.flush()</span></span></code></pre>
 <p>It’s about the same code, but in Logfire it just feels native.</p>
+<p>My take: they are very similar. Choose the one that makes LLM evaluation and development more convenient for your own use case.</p>
 </article></main></body></html>
