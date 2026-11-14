@@ -29,7 +29,7 @@
 <p>This is where they differ most.</p>
 <ul>
 <li><strong>Langfuse</strong> has annotation queues in the UI. I made a <code>true_category</code> score, queued 13 traces, and labeled them without code.</li>
-<li><strong>Logfire</strong> has no queue. Labels come from code, with <code>record_feedback</code>. I copied my Langfuse labels over with a short script. If people who do not code grade the outputs, you build the eval interface yourself: read the traces with the query API, show them on a small page, and send each grade back with <code>record_feedback</code>. The labels land as <code>annotation</code> records. I could not find them in the live view, but SQL finds them in the SQL Workbench.</li>
+<li><strong>Logfire</strong> has annotation queues too, but they are built for agent runs: you pick an agent and give each run a pass, neutral or fail verdict. My router is a pipeline, not an agent, so that page stayed empty. I sent my labels from code with <code>record_feedback</code>, copied over from Langfuse with a short script. They land as <code>annotation</code> records. SQL finds them in the SQL Workbench, but the annotation page does not show them. So for a custom label on a pipeline, you build the eval interface yourself: read the traces with the query API, show them on a small page, and send each grade back with <code>record_feedback</code>.</li>
 </ul>
 <p><img src="/writing/langfuse-vs-logfire/logfire-annotations-sql.png" alt="The Logfire SQL Workbench, listing the true_category labels next to their trace IDs"></p>
 <p><img src="/writing/langfuse-vs-logfire/langfuse-queue-completed.png" alt="A Langfuse annotation queue with 13 labeled traces and the true_category score"></p>
@@ -88,7 +88,7 @@
 <tr>
 <td>Labels</td>
 <td>from the UI</td>
-<td>from code, or your own eval UI</td>
+<td>from the UI for agent runs, else from code</td>
 </tr>
 <tr>
 <td>Accuracy at 0.7</td>
